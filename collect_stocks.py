@@ -8,6 +8,7 @@
 import json
 import subprocess
 import sys
+import urllib.request
 from datetime import datetime, timedelta
 from pathlib import Path
 
@@ -18,6 +19,9 @@ REPORTS_DIR = WORKSPACE / "reports"
 DATA_DIR.mkdir(exist_ok=True)
 REPORTS_DIR.mkdir(exist_ok=True)
 
+# Tavily API 配置
+TAVILY_API_KEY = "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"
+
 
 def run_shell(cmd: str) -> str:
     """执行 shell 命令"""
@@ -26,6 +30,38 @@ def run_shell(cmd: str) -> str:
         return result.stdout.strip()
     except Exception as e:
         return f"Error: {e}"
+
+
+def get_tavily_news(query: str, max_results: int = 5) -> list:
+    """从 Tavily 获取相关新闻"""
+    try:
+        url = "https://api.tavily.com/search"
+        headers = {
+            "Content-Type": "application/json",
+            "Authorization": f"Bearer {TAVILY_API_KEY}"
+        }
+        data = {
+            "query": query,
+            "max_results": max_results,
+            "search_depth": "advanced",
+            "include_answer": False
+        }
+        
+        req = urllib.request.Request(url, data=json.dumps(data).encode(), headers=headers)
+        with urllib.request.urlopen(req, timeout=30) as response:
+            result = json.loads(response.read().decode())
+        
+        news_list = []
+        for item in result.get("results", [])[:max_results]:
+            news_list.append({
+                "title": item.get("title", ""),
+                "url": item.get("url", ""),
+                "content": item.get("content", "")[:200] + "..." if len(item.get("content", "")) > 200 else item.get("content", "")
+            })
+        
+        return news_list
+    except Exception as e:
+        return [{"title": f"获取失败：{str(e)}", "url": "", "content": ""}]
 
 
 def get_us_stocks() -> dict:
@@ -120,6 +156,29 @@ def get_cn_stocks() -> dict:
     return stocks
 
 
+def get_market_news() -> dict:
+    """从 Tavily 获取市场新闻"""
+    news = {
+        "us_news": [],
+        "cn_news": [],
+        "global_news": []
+    }
+    
+    # 美股新闻
+    us_query = "美股市场新闻 美联储 科技股 2026 年 2 月"
+    news["us_news"] = get_tavily_news(us_query, max_results=3)
+    
+    # A 股新闻
+    cn_query = "A 股市场新闻 中国证监会 沪深股市 2026 年 2 月"
+    news["cn_news"] = get_tavily_news(cn_query, max_results=3)
+    
+    # 全球财经新闻
+    global_query = "全球财经新闻 人工智能 AI 芯片 加密货币 2026 年"
+    news["global_news"] = get_tavily_news(global_query, max_results=3)
+    
+    return news
+
+
 def calc_change(current: str, prev: str) -> str:
     """计算涨跌幅"""
     try:
@@ -133,7 +192,7 @@ def calc_change(current: str, prev: str) -> str:
         return "-"
 
 
-def generate_report(date: str, us_data: dict, cn_data: dict) -> str:
+def generate_report(date: str, us_data: dict, cn_data: dict, news_data: dict = None) -> str:
     """生成 Markdown 报告"""
     report = f"""# 📈 每日股票行情 | {date}
 
@@ -188,15 +247,58 @@ def generate_report(date: str, us_data: dict, cn_data: dict) -> str:
     report += f"""
 ---
 
-## 📰 市场要点
+## 📰 市场新闻 (Tavily)
 
-### 美股
-- 数据源：Stooq (公开免费 API)
-- 交易时间：美东时间 9:30-16:00
+"""
+    
+    if news_data:
+        # 美股新闻
+        if news_data.get("us_news"):
+            report += "### 🇺🇸 美股新闻\n\n"
+            for news in news_data["us_news"]:
+                if news.get("title") and "获取失败" not in news.get("title", ""):
+                    report += f"- **{news['title']}**\n"
+                    if news.get("url"):
+                        report += f"  🔗 [{news['url']}]({news['url']})\n"
+                    if news.get("content"):
+                        report += f"  {news['content']}\n"
+                    report += "\n"
+        
+        # A 股新闻
+        if news_data.get("cn_news"):
+            report += "### 🇨🇳 A 股新闻\n\n"
+            for news in news_data["cn_news"]:
+                if news.get("title") and "获取失败" not in news.get("title", ""):
+                    report += f"- **{news['title']}**\n"
+                    if news.get("url"):
+                        report += f"  🔗 [{news['url']}]({news['url']})\n"
+                    if news.get("content"):
+                        report += f"  {news['content']}\n"
+                    report += "\n"
+        
+        # 全球财经新闻
+        if news_data.get("global_news"):
+            report += "### 🌍 全球财经\n\n"
+            for news in news_data["global_news"]:
+                if news.get("title") and "获取失败" not in news.get("title", ""):
+                    report += f"- **{news['title']}**\n"
+                    if news.get("url"):
+                        report += f"  🔗 [{news['url']}]({news['url']})\n"
+                    if news.get("content"):
+                        report += f"  {news['content']}\n"
+                    report += "\n"
+    else:
+        report += "*今日新闻数据暂缺*\n\n"
+    
+    report += f"""---
 
-### A 股
-- 数据源：新浪财经 (公开免费 API)
-- 交易时间：北京时间 9:30-11:30, 13:00-15:00
+## 📊 数据源
+
+| 类型 | 数据源 | 说明 |
+|------|--------|------|
+| 美股行情 | Stooq | 公开免费 API，延迟 15-20 分钟 |
+| A 股行情 | 新浪财经 | 公开免费 API，实时 |
+| 市场新闻 | Tavily | AI 搜索引擎，实时资讯 |
 
 ---
 
@@ -206,13 +308,14 @@ def generate_report(date: str, us_data: dict, cn_data: dict) -> str:
     return report
 
 
-def save_data(date: str, us_data: dict, cn_data: dict):
+def save_data(date: str, us_data: dict, cn_data: dict, news_data: dict = None):
     """保存原始数据到 JSON"""
     data = {
         "date": date,
         "timestamp": datetime.now().isoformat(),
         "us_stocks": us_data,
-        "cn_stocks": cn_data
+        "cn_stocks": cn_data,
+        "news": news_data
     }
     
     with open(DATA_DIR / f"{date}.json", "w", encoding="utf-8") as f:
@@ -235,12 +338,16 @@ def main():
     cn_data = get_cn_stocks()
     print(f"   收集到 {len(cn_data)} 条 A 股数据")
     
+    print("📰 收集市场新闻 (Tavily)...")
+    news_data = get_market_news()
+    print(f"   收集到 {len(news_data.get('us_news', []))} 条美股新闻，{len(news_data.get('cn_news', []))} 条 A 股新闻")
+    
     # 保存数据
-    save_data(date, us_data, cn_data)
+    save_data(date, us_data, cn_data, news_data)
     print(f"💾 数据已保存到 {DATA_DIR}/{date}.json")
     
     # 生成报告
-    report = generate_report(date, us_data, cn_data)
+    report = generate_report(date, us_data, cn_data, news_data)
     report_path = REPORTS_DIR / f"{date}.md"
     with open(report_path, "w", encoding="utf-8") as f:
         f.write(report)
