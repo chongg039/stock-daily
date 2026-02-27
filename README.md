@@ -1,0 +1,39 @@
+# 📈 每日股票行情跟踪
+
+自动收集美股和 A 股每日行情数据，生成 Markdown 报告。
+
+## 数据源
+
+- **美股**: Stooq (https://stooq.com)
+- **A 股**: 新浪财经 (http://hq.sinajs.cn)
+
+## 目录结构
+
+```
+stock-daily/
+├── data/          # 原始 JSON 数据
+├── reports/       # Markdown 报告
+├── collect_stocks.py  # 数据收集脚本
+└── README.md      # 本文件
+```
+
+## 定时任务
+
+每天 08:30 (Asia/Shanghai) 自动运行，更新数据并推送到 GitHub。
+
+## 最新行情
+### 2026-02-27
+
+**美股**: 道琼斯 49499.2 | 标普 6908.86 | 
+
+**A 股**: 
+
+---
+### 2026-02-27
+
+**美股**: 道琼斯 Close | 标普 Close | 
+
+**A 股**: 
+
+---
+
