@@ -1,0 +1,141 @@
+{
+  "date": "2026-03-02",
+  "timestamp": "2026-03-02T08:31:05.615111",
+  "us_stocks": {
+    "道琼斯": {
+      "symbol": "^DJI",
+      "date": "2026-02-27",
+      "close": "48977.92",
+      "open": "49253.57",
+      "high": "49253.57",
+      "low": "48678.78",
+      "volume": "541082542"
+    },
+    "标普 500": {
+      "symbol": "^SPX",
+      "date": "2026-02-27",
+      "close": "6878.88",
+      "open": "6856.54",
+      "high": "6882.96",
+      "low": "6831.74",
+      "volume": "4566965036"
+    },
+    "苹果": {
+      "symbol": "AAPL",
+      "date": "2026-02-27",
+      "close": "264.18",
+      "open": "272.81",
+      "high": "272.81",
+      "low": "262.89",
+      "volume": "72232024"
+    },
+    "微软": {
+      "symbol": "MSFT",
+      "date": "2026-02-27",
+      "close": "392.74",
+      "open": "390.88",
+      "high": "396.82",
+      "low": "389.88",
+      "volume": "51268782"
+    },
+    "谷歌": {
+      "symbol": "GOOGL",
+      "date": "2026-02-27",
+      "close": "311.76",
+      "open": "304.135",
+      "high": "312.37",
+      "low": "303.8",
+      "volume": "44562264"
+    },
+    "亚马逊": {
+      "symbol": "AMZN",
+      "date": "2026-02-27",
+      "close": "210",
+      "open": "206.83",
+      "high": "210.33",
+      "low": "205.2",
+      "volume": "57191213"
+    },
+    "英伟达": {
+      "symbol": "NVDA",
+      "date": "2026-02-27",
+      "close": "177.19",
+      "open": "181.25",
+      "high": "182.59",
+      "low": "176.38",
+      "volume": "310416947"
+    },
+    "Meta": {
+      "symbol": "META",
+      "date": "2026-02-27",
+      "close": "648.18",
+      "open": "643.45",
+      "high": "649.44",
+      "low": "638.12",
+      "volume": "15669294"
+    },
+    "特斯拉": {
+      "symbol": "TSLA",
+      "date": "2026-02-27",
+      "close": "402.51",
+      "open": "402.94",
+      "high": "407.12",
+      "low": "398.11",
+      "volume": "56752370"
+    }
+  },
+  "cn_stocks": {},
+  "news": {
+    "us_news": [
+      {
+        "title": "2026年2月26日美股市场深度解读报告：AI热潮中的“隐形修正”与防御 ...",
+        "url": "https://xueqiu.com/6025808271/377158028",
+        "content": "#### 5. 重大公司动态与并购新闻：行业整合与战略版图重构\n\n在高利率预期的余威下，行业巨头正通过精准并购来寻求“非有机增长”，超级投资者也在其中扮演了推手角色。\n\n金融业： Arrow Financial宣布以8910万美元收购Adirondack Bancorp，标志着区域性银行整合潮在成本压力下继续加速。媒体业焦点： Paramount Skydance大涨10%，而受Netflix（N..."
+      },
+      {
+        "title": "本周美股行情- 2026-02-23 - TradingKey",
+        "url": "https://www.tradingkey.com/zh-hans/tools/market-update/us-stock-market-this-week-20260223",
+        "content": "tradingkey.logo\n\n股票评分\n\n股票评分\n\n\n\n一键诊股 让投资更聪明\n\n 公布了强劲的 2025 年第四季度财报。\n\n• 资金流向与情绪：2 月份密歇根大学消费者信心指数略升至 56.6，但仍低于预期且显著低于去年同期，高物价继续是消费者的主要担忧。在最高法院对关税作出裁决后，投资者情绪有所改善。固定收益方面，由于国债收益率小幅走高，核心债券价格走低。不同财富水平之间的情绪分歧依..."
+      },
+      {
+        "title": "本周美股行情- 2026-02-16 - TradingKey",
+        "url": "https://www.tradingkey.com/zh-hans/tools/market-update/us-stock-market-this-week-20260216",
+        "content": "• 关键事件分析：超过100家标普500指数成份股公司公布了财报，包括2月9日的安森美（onsemi）、信安金融集团（Principal Financial Group）、Medpace、固特异（Goodyear）和沃那多（Vornado）。其他备受期待的财报包括Robinhood、AppLovin和Coinbase。美联储官员（包括亚特兰大联储主席拉斐尔·博斯蒂克以及美联储理事克里斯托弗·沃勒和..."
+      }
+    ],
+    "cn_news": [
+      {
+        "title": "2026年2月27日A股复盘：涨价主线引领周期股突围 - UniFuncs",
+        "url": "https://unifuncs.com/s/dLPRMIea",
+        "content": "主力资金 ：净流出约367亿元62finance.sina.com.cnfinance.sina.com.cn晚报|十五五战略部署与全球关税变局，今日市场信息全汇总今日A股市场缩量震荡，沪指涨0.39%，深成指跌0.22%，创业板指跌0.85%，全A指数再创阶段新高，市场成交25055亿元。主力资金净流出367亿元，北向资金净流入5.2 ... [...] 持续提升资本市场服务实体经济的适配性和覆..."
+      },
+      {
+        "title": "今日A股市场重要快讯汇总｜2026年2月26日 - 新浪财经",
+        "url": "https://finance.sina.com.cn/headline/2026-02-26/doc-inhpaxnu4541118.shtml",
+        "content": "声明：市场有风险，投资需谨慎。本文为AI大模型基于第三方数据库自动发布，不代表新浪财经观点，任何在本文出现的信息均只作为参考，不构成个人投资建议。如有出入请以实际公告为准。如有疑问，请联系biz@staff.sina.com.cn。\n\n责任编辑：芝麻AI\n\n## VIP课程推荐\n\n## APP专享直播\n\n## 热门推荐\n\n新浪财经公众号\n\n24小时滚动播报最新的财经资讯和视频，更多粉丝福利扫描二维..."
+      },
+      {
+        "title": "沪市市场运行情况例行发布（2026年2月24日至2026年2月27日）",
+        "url": "https://finance.sina.com.cn/wm/2026-02-27/doc-inhphcxh3649674.shtml?froms=ggmp",
+        "content": "注3：债券融资含公司债券（含企业债券）、资产支持证券。\n\n主板项目动态\n\n|  |  |  |  |\n ---  --- |\n| 受理审核（家） | | | |\n| 累计受理 | 224 | | |\n| 问 询 中 | 16 | 待 问 询 | 2 |\n| 中止审核 | 1 | 终止审核 | 132 |\n| 已 上 会 | 79(其中4家终止，2家中止） | | |\n| 上市委审议（家） | | ..."
+      }
+    ],
+    "global_news": [
+      {
+        "title": "[PDF] 科技行业2026 年展望：AI 算法迭代扩容算力底座",
+        "url": "https://aigc.idigital.com.cn/djyanbao/%E3%80%90%E6%B5%A6%E9%93%B6%E5%9B%BD%E9%99%85%E3%80%91%E7%A7%91%E6%8A%80%E8%A1%8C%E4%B8%9A2026%E5%B9%B4%E5%B1%95%E6%9C%9B%EF%BC%9AAI%E7%AE%97%E6%B3%95%E8%BF%AD%E4%BB%A3%E6%89%A9%E5%AE%B9%E7%AE%97%E5%8A%9B%E5%BA%95%E5%BA%A7%EF%BC%8C%E7%94%9F%E6%80%81%E7%B9%81%E8%8D%A3%E9%87%8D%E5%A1%91%E5%A2%9E%E9%95%BF%E8%BE%B9%E7%95%8C-2025-11-28.pdf",
+        "content": "· Cleanspark ：Cleanspark 是一家专注于比特币挖矿的上市企业， 其核心业 \n\n务围绕区块链与能源管理技术融合展开。 公司凭借专有数据中心基础设施和 \n\n能源管理系统， 实现高正常运行时间与运营效率， 同时通过整合可再生能源、 \n\n部署先进 ASIC 矿机，构建了“高效挖矿 +能源优化”的核心业务模式 。\n\n· Coinbase ：Coinbase 是美国最大的合规加密货币交易..."
+      },
+      {
+        "title": "CFO財報解密  2026年AI板塊重心︰淨現金流（Benny） - Yahoo 財經",
+        "url": "https://hk.finance.yahoo.com/news/cfo%E8%B2%A1%E5%A0%B1%E8%A7%A3%E5%AF%86-%E2%94%822026%E5%B9%B4ai%E6%9D%BF%E5%A1%8A%E9%87%8D%E5%BF%83%EF%B8%B0%E6%B7%A8%E7%8F%BE%E9%87%91%E6%B5%81%EF%BC%88benny%EF%BC%89-003058961.html",
+        "content": "投資組合\n 新聞\n  + 最新新聞\n  + Yahoo財經\n  + Yahoo Money Talk\n  + Tech\n  + AI大時代\n  + 全球關稅戰\n 外幣\n  + 外幣報價\n  + 外幣兌換攻略\n  + 日圓兌港元\n  + 英鎊兌港元\n  + 澳元兌港元\n  + 美元兌港元\n  + 港元兌人民幣\n  + 港元兌台幣\n  + 加元兌港元\n  + 歐元兌港元\n  + 貨幣轉換器\n 港股\n ..."
+      },
+      {
+        "title": "华尔街和科技圈2026年十大预测：AI泡沫恐破灭，三大超级IPO来袭",
+        "url": "https://finance.sina.com.cn/roll/2026-01-03/doc-inhezczt3785779.shtml",
+        "content": "新浪首页\n 新闻\n 体育\n 财经\n 娱乐\n 科技\n 博客\n 图片\n 专栏\n 更多\n\n 汽车 教育 时尚 女性 星座 健康\n 房产历史视频收藏育儿读书\n 佛学游戏旅游邮箱导航\n\n 新浪微博\n 新浪新闻\n 新浪财经\n 新浪体育\n 新浪众测\n 新浪博客\n 新浪视频\n 新浪游戏\n 天气通\n\n区块链 > 正文\n\n# 华尔街和科技圈2026年十大预测：AI泡沫恐破灭，三大超级IPO来袭，量子计算或颠覆加密货币..."
+      }
+    ]
+  }
+}
