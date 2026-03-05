@@ -124,34 +124,40 @@ def get_us_stocks() -> dict:
 
 
 def get_cn_stocks() -> dict:
-    """获取 A 股数据（新浪财经 API）"""
+    """获取 A 股数据（腾讯财经 API）"""
     stocks = {}
     
-    # 三大指数
+    # 三大指数 - 腾讯代码：sh=沪市，sz=深市
     indices = {
         "sh000001": "上证指数",
         "sz399001": "深证成指",
-        "cyb": "创业板指"
+        "sz399006": "创业板指"
     }
     
     for code, name in indices.items():
-        data = run_shell(f'curl -sL "http://hq.sinajs.cn/list={code}" 2>/dev/null')
-        if data and code in data:
-            try:
-                # 解析数据：var hq_str_sh000001="名称，当前，昨日，今天，最高，最低，..."
-                content = data.split('"')[1] if '"' in data else ""
-                parts = content.split(",")
-                if len(parts) >= 5:
+        try:
+            result = subprocess.run(
+                f'curl -sL --connect-timeout 10 "https://qt.gtimg.cn/q={code}"',
+                shell=True, capture_output=True, timeout=15
+            )
+            # 腾讯 API 返回 GBK 编码
+            data = result.stdout.decode('gbk', errors='ignore').strip()
+            if data and '=' in data and '~' in data:
+                content = data.split('"')[1]
+                parts = content.split('~')
+                if len(parts) >= 45:
+                    # 腾讯 API 字段：3=当前，4=昨收，5=最高，6=成交量
+                    # 31=涨跌额，32=涨跌幅%，34=今开，42=最低
                     stocks[name] = {
-                        "symbol": code,
+                        "symbol": parts[2],
                         "close": parts[3] if parts[3] else "-",
-                        "open": parts[1] if parts[1] else "-",
-                        "high": parts[4] if parts[4] else "-",
-                        "low": parts[5] if parts[5] else "-",
-                        "change": calc_change(parts[3], parts[2]) if len(parts) > 2 and parts[2] else "-"
+                        "open": parts[34] if len(parts) > 34 and parts[34] else "-",
+                        "high": parts[5] if parts[5] else "-",
+                        "low": parts[42] if len(parts) > 42 and parts[42] else "-",
+                        "change": f"{parts[32]}%" if len(parts) > 32 and parts[32] else "-"
                     }
-            except Exception as e:
-                stocks[name] = {"error": str(e)}
+        except Exception as e:
+            stocks[name] = {"error": str(e)}
     
     return stocks
 

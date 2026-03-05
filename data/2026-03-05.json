@@ -1,0 +1,166 @@
+{
+  "date": "2026-03-05",
+  "timestamp": "2026-03-05T08:40:34.959276",
+  "us_stocks": {
+    "道琼斯": {
+      "symbol": "^DJI",
+      "date": "2026-03-04",
+      "close": "48739.41",
+      "open": "48589.77",
+      "high": "48854.05",
+      "low": "48354.37",
+      "volume": "251318585"
+    },
+    "标普 500": {
+      "symbol": "^SPX",
+      "date": "2026-03-04",
+      "close": "6869.5",
+      "open": "6831.69",
+      "high": "6885.94",
+      "low": "6811.64",
+      "volume": "2115180763"
+    },
+    "苹果": {
+      "symbol": "AAPL",
+      "date": "2026-03-04",
+      "close": "262.45",
+      "open": "264.65",
+      "high": "266.15",
+      "low": "261.42",
+      "volume": "39505844"
+    },
+    "微软": {
+      "symbol": "MSFT",
+      "date": "2026-03-04",
+      "close": "405",
+      "open": "401.265",
+      "high": "411.0326",
+      "low": "400.31",
+      "volume": "35655483"
+    },
+    "谷歌": {
+      "symbol": "GOOGL",
+      "date": "2026-03-04",
+      "close": "303.03",
+      "open": "302.755",
+      "high": "305.47",
+      "low": "300.75",
+      "volume": "29323546"
+    },
+    "亚马逊": {
+      "symbol": "AMZN",
+      "date": "2026-03-04",
+      "close": "216.82",
+      "open": "210.47",
+      "high": "217.54",
+      "low": "210.16",
+      "volume": "54528378"
+    },
+    "英伟达": {
+      "symbol": "NVDA",
+      "date": "2026-03-04",
+      "close": "183.04",
+      "open": "180.44",
+      "high": "184.7",
+      "low": "180.06",
+      "volume": "176498985"
+    },
+    "Meta": {
+      "symbol": "META",
+      "date": "2026-03-04",
+      "close": "667.56",
+      "open": "658.945",
+      "high": "672.77",
+      "low": "657.72",
+      "volume": "10765996"
+    },
+    "特斯拉": {
+      "symbol": "TSLA",
+      "date": "2026-03-04",
+      "close": "405.94",
+      "open": "397.845",
+      "high": "408.33",
+      "low": "394.58",
+      "volume": "67701307"
+    }
+  },
+  "cn_stocks": {
+    "上证指数": {
+      "symbol": "000001",
+      "close": "4082.47",
+      "open": "4055.41",
+      "high": "4087.63",
+      "low": "4055.41",
+      "change": "-0.98%"
+    },
+    "深证成指": {
+      "symbol": "399001",
+      "close": "13917.75",
+      "open": "13854.37",
+      "high": "13854.37",
+      "low": "13854.37",
+      "change": "-0.75%"
+    },
+    "创业板指": {
+      "symbol": "399006",
+      "close": "3164.37",
+      "open": "3149.41",
+      "high": "3171.19",
+      "low": "3149.41",
+      "change": "-1.41%"
+    }
+  },
+  "news": {
+    "us_news": [
+      {
+        "title": "2026年2月9日美股收涨：道指站稳50000点，科技股反弹重拾升势",
+        "url": "https://www.gilin.com.cn/news/24027-research",
+        "content": "系统性考量\n\n：比特币在经历一周大幅下跌后逼近70000美元，分析师称之为“信心危机”，这引入了加密货币相关性风险，可能会越来越多地影响更广泛风险资产的估值。逢低买入者回归推动黄金下跌0.75%至每盎司5,041.40美元，这表明大宗商品市场正在重新布局，可能预示着周五CPI数据公布前市场通胀预期的广泛变化。\n\n关键信息摘要\n\n2026年2月9日的收盘情况显示，美国股市仍具韧性，科技股在盘整后重新..."
+      },
+      {
+        "title": "美股快报｜2026年2月美股资金轮动下的赢家与方向",
+        "url": "https://acy.com/zh/market-news/market-analysis/winners-and-directions-in-us-stock-market-fund-rotation-in-feb-2026-monthly-report-c-t-112135/",
+        "content": "交易\n\n新闻 & 分析\n\nTim Cahill\n足球传奇 & ACY证券全球品牌大使\n\nTim Cahill\nTim Cahill Cartoon\n\n# 美股快报｜2026年2月美股资金轮动下的赢家与方向\n\nCindy Tsai - 量化策略分析师\n\n2026-02-04 11:09:09\n\ngo to instagram\ngo to instagram\ngo to linkedin\ngo to ..."
+      },
+      {
+        "title": "High Growth Tech Stocks In The US Market February 2026",
+        "url": "https://finance.yahoo.com/news/high-growth-tech-stocks-us-113821070.html",
+        "content": "Calix, demonstrating robust growth in the tech sector, reported a significant uptick in earnings with a 65.4% annual increase, outpacing the broader US market's 15.6%. This performance is underpinned ..."
+      }
+    ],
+    "cn_news": [
+      {
+        "title": "2026年2月27日A股复盘：涨价主线引领周期股突围 - UniFuncs",
+        "url": "https://unifuncs.com/s/dLPRMIea",
+        "content": "主力资金 ：净流出约367亿元62finance.sina.com.cnfinance.sina.com.cn晚报|十五五战略部署与全球关税变局，今日市场信息全汇总今日A股市场缩量震荡，沪指涨0.39%，深成指跌0.22%，创业板指跌0.85%，全A指数再创阶段新高，市场成交25055亿元。主力资金净流出367亿元，北向资金净流入5.2 ... [...] 持续提升资本市场服务实体经济的适配性和覆..."
+      },
+      {
+        "title": "2026年2月27日（2月收官日）A股呈现沪强深弱、指数分化、个股普涨",
+        "url": "https://caifuhao.eastmoney.com/news/20260227232854538567340?from=guba&name=55m96ZO25pyJ6Imy5ZCn&gubaurl=aHR0cHM6Ly9ndWJhLmVhc3Rtb25leS5jb20vbGlzdCw2MDEyMTIuaHRtbA%3D%3D",
+        "content": "每日会在文章下方留言置顶进行LOF的溢价提醒，有需要的可以关注。\n\n#中国载人航天全力推进登月配套设施建设#  $商业航天(BK0963)$ \n\n$白银有色(SH601212)$ \n\nA股规模指数和港股指数估值表更新：\n\n本文作者可以追加内容哦 !\n\n价投君\n\n|  |  |  |\n --- \n| 总收益 | 20日收益 | 日收益 |\n -- \n\n|  |  |  |\n --- \n| 最新操作 ..."
+      },
+      {
+        "title": "中国证监会易帅后沪深股市齐涨- BBC News 中文",
+        "url": "https://www.bbc.com/zhongwen/simp/business/2016/02/160222_china_stock",
+        "content": "# 中国证监会易帅后沪深股市齐涨\n\n北京某证券行（资料图片）\n\n图像来源，AP\n\n中国股市在国务院撤换证监会主席后的首个交易日显著高开，上海与深圳股市最终高收于2%涨幅之上，其中沪市重上2900点水平。\n\n沪市星期一（2月22日）开盘涨1%；深市涨1.26%。两市经过一轮徘徊后午盘涨幅扩大，上证综指收报2927.18点，涨2.35%；深证成指报10370.99点，涨2.05%。\n\n中国财经媒体普遍..."
+      }
+    ],
+    "global_news": [
+      {
+        "title": "AI 淘金熱遠未結束！美銀欽點2026年三大芯片股",
+        "url": "https://hk.investing.com/news/stock-market-news/article-1236759",
+        "content": "解鎖策略\n\n財經日曆財報日曆假期日曆美聯儲利率監測工具美國報酬率收益曲線\n\n更多工具\n\n股票篩選器貨幣換算器\n\n安裝本站應用掃描QR碼安裝應用\n\n風險聲明: 金融工具及/或加密貨幣交易涉及高風險，包括可損失部分或全部投資金額，因此未必適合所有投資者。加密貨幣價格波幅極大，並可能會受到金融、監管或政治事件等多種外部因素影響。保證金交易會增加金融風險。  \n交易金融工具或加密貨幣之前，你應完全瞭解與金..."
+      },
+      {
+        "title": "CFO財報解密  2026年AI板塊重心︰淨現金流（Benny） - Yahoo 財經",
+        "url": "https://hk.finance.yahoo.com/news/cfo%E8%B2%A1%E5%A0%B1%E8%A7%A3%E5%AF%86-%E2%94%822026%E5%B9%B4ai%E6%9D%BF%E5%A1%8A%E9%87%8D%E5%BF%83%EF%B8%B0%E6%B7%A8%E7%8F%BE%E9%87%91%E6%B5%81%EF%BC%88benny%EF%BC%89-003058961.html",
+        "content": "投資組合\n 新聞\n  + 最新新聞\n  + Yahoo財經\n  + Yahoo Money Talk\n  + Tech\n  + AI大時代\n  + 全球關稅戰\n 外幣\n  + 外幣報價\n  + 外幣兌換攻略\n  + 日圓兌港元\n  + 英鎊兌港元\n  + 澳元兌港元\n  + 美元兌港元\n  + 港元兌人民幣\n  + 港元兌台幣\n  + 加元兌港元\n  + 歐元兌港元\n  + 貨幣轉換器\n 港股\n ..."
+      },
+      {
+        "title": "贝莱德2026年人工智能报告对数字资产持乐观态度 - CoinDesk",
+        "url": "https://www.coindesk.com/zh/business/2025/12/03/u-s-debt-growth-will-drive-crypto-s-gains-blackrock-says-in-report-on-ai",
+        "content": "# 贝莱德报告称，美国债务增长将推动加密货币收益，聚焦人工智能\n\n## 全球最大的资产管理公司发布了其人工智能报告，对美国债券和该国经济持悲观看法，同时对加密货币的采用前景持乐观看法。\n\nGoogle\nThe BlackRock company logo is seen outside of its NYC headquarters. (Photo by Michael M. Santiago/G..."
+      }
+    ]
+  }
+}
