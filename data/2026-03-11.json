@@ -1,0 +1,166 @@
+{
+  "date": "2026-03-11",
+  "timestamp": "2026-03-11T08:48:40.610627",
+  "us_stocks": {
+    "道琼斯": {
+      "symbol": "^DJI",
+      "date": "2026-03-10",
+      "close": "47706.51",
+      "open": "47771.43",
+      "high": "48220.54",
+      "low": "47444.23",
+      "volume": "247204432"
+    },
+    "标普 500": {
+      "symbol": "^SPX",
+      "date": "2026-03-10",
+      "close": "6781.48",
+      "open": "6796.56",
+      "high": "6845.08",
+      "low": "6759.74",
+      "volume": "2113021597"
+    },
+    "苹果": {
+      "symbol": "AAPL",
+      "date": "2026-03-10",
+      "close": "260.72",
+      "open": "257.645",
+      "high": "262.48",
+      "low": "256.95",
+      "volume": "30537233"
+    },
+    "微软": {
+      "symbol": "MSFT",
+      "date": "2026-03-10",
+      "close": "405.76",
+      "open": "410.03",
+      "high": "410.2",
+      "low": "402.93",
+      "volume": "31655381"
+    },
+    "谷歌": {
+      "symbol": "GOOGL",
+      "date": "2026-03-10",
+      "close": "307.04",
+      "open": "306.17",
+      "high": "309.51",
+      "low": "305.5704",
+      "volume": "23208762"
+    },
+    "亚马逊": {
+      "symbol": "AMZN",
+      "date": "2026-03-10",
+      "close": "214.34",
+      "open": "214.19",
+      "high": "215.65",
+      "low": "212.43",
+      "volume": "35582411"
+    },
+    "英伟达": {
+      "symbol": "NVDA",
+      "date": "2026-03-10",
+      "close": "184.76",
+      "open": "182.4",
+      "high": "186.435",
+      "low": "182.06",
+      "volume": "178696832"
+    },
+    "Meta": {
+      "symbol": "META",
+      "date": "2026-03-10",
+      "close": "653.91",
+      "open": "653.56",
+      "high": "660.3",
+      "low": "649",
+      "volume": "9844637"
+    },
+    "特斯拉": {
+      "symbol": "TSLA",
+      "date": "2026-03-10",
+      "close": "399.25",
+      "open": "402.22",
+      "high": "406.59",
+      "low": "398.19",
+      "volume": "59148316"
+    }
+  },
+  "cn_stocks": {
+    "上证指数": {
+      "symbol": "000001",
+      "close": "4123.14",
+      "open": "4098.59",
+      "high": "4098.59",
+      "low": "4098.59",
+      "change": "0.65%"
+    },
+    "深证成指": {
+      "symbol": "399001",
+      "close": "14354.07",
+      "open": "14239.30",
+      "high": "14239.30",
+      "low": "14239.30",
+      "change": "2.04%"
+    },
+    "创业板指": {
+      "symbol": "399006",
+      "close": "3306.14",
+      "open": "3272.99",
+      "high": "3281.94",
+      "low": "3272.99",
+      "change": "3.04%"
+    }
+  },
+  "news": {
+    "us_news": [
+      {
+        "title": "每日美股市场深度解读报告：2026年2月18日 - 雪球",
+        "url": "https://xueqiu.com/6025808271/376446317",
+        "content": "AI洞察美股\n\nAI洞察美股()\n\n发布于来自Android · 陕西\n\n# 每日美股市场深度解读报告：2026年2月18日\n\n来自AI洞察美股的雪球专栏\n\n来源：雪球App，作者： AI洞察美股，（\n\n#### 1. 市场全景概述：波动中的技术性反弹\n\n2026年2月18日，美股市场在多空势力的激烈博弈中展现出显著的韧性。尽管美联储（Fed）1月会议纪要引发了关于利率路径的深度焦虑，但以英伟达（..."
+      },
+      {
+        "title": "美股：通胀不可怕了，那什么可怕？【2026-02-13】 - kuai.media",
+        "url": "https://www.kuai.media/news/2026/02/14/771329.html",
+        "content": "- 美股铁窗泪！NaNa说美股(2026.02.10)\n- [美股直播02/11[复盘] 川普又要派航母? 接下来华尔街多空Algo 就是关注这几个点位| 明天失业数据重要吗? 周二美股新闻与分析](/news/2026/02/11/770868.html)\n- [美股直播02/10[早盘] 更正下之前我对太空数据站的看法|经济数据 + 美联储发言, 今天大盘技术面怎么看? 周二美股分析总汇](/..."
+      },
+      {
+        "title": "2026年2月9日美股市场综述：科技领涨、温和走高，乐观中藏隐忧",
+        "url": "https://www.moomoo.com/hans/community/feed/february-9-2026-u-s-stock-market-overview-tech-leads-116046370308102",
+        "content": "donwloadimg\nappLogo\n\n# 2026年2月9日美股市场综述：科技领涨、温和走高，乐观中藏隐忧\n\navatar\n\navatar\navatar\n\n投资产品和服务由Moomoo Financial Inc.提供，Moomoo Financial Inc.是美国证券投资者保护公司(SIPC)及美国金融业管理局(FINRA)的成员。如需了解Moomoo Financial Inc.的相关信..."
+      }
+    ],
+    "cn_news": [
+      {
+        "title": "2026年2月12日A股市场深度复盘报告 - UniFuncs",
+        "url": "https://unifuncs.com/s/lKr5nQ1k",
+        "content": "来源：证券时报网作者：王军2026-02-12(1天前) 20:59 盘后数据出炉。 2月12日，A股全天窄幅整理，节前市场交投相对平淡。截至收盘，上证指数涨0.05%，深证成指涨0.86%，创业板指涨1.32%。A股全天成交2.16万亿元，上日成交2万亿元。 1.两市主力资金净流出 [...] 3板及以上涨停家数 ：增至5只96finance.sina.comfinance.sina.com焦点..."
+      },
+      {
+        "title": "股海导航_2026年2月26日_沪深股市公告与交易提示 - 新浪财经",
+        "url": "https://finance.sina.com.cn/stock/s/2026-02-26/doc-inhpaxnr0640995.shtml",
+        "content": "# 股海导航\\_2026年2月26日\\_沪深股市公告与交易提示\n\n专题：交易提示\n\n　　炒股就看金麒麟分析师研报，权威，专业，及时，全面，助您挖掘潜力主题机会！\n\n　　【热点】\n\n通源石油：近期公司经营情况及内外部经营环境未发生重大变化。\n\n川金诺：市场传闻称美国可能将磷元素和草甘膦列入国家安全优先事项，该事项对公司经营实际影响尚不明确。\n\n博纳影业：公司近期经营情况正常，内外部经营环境未发生重大..."
+      },
+      {
+        "title": "证监会：A股总市值超过110万亿元--2026年全国两会 - 经济- 人民网",
+        "url": "http://finance.people.com.cn/n1/2026/0306/c1004-40676430.html",
+        "content": "人民网>>经济·科技\n\n分享到：\n\n打开\n\n# 证监会：A股总市值超过110万亿元\n\n2026年03月06日18:28   来源：人民网\n\n人民网北京3月6日电 （记者罗知之）3月6日下午，十四届全国人大四次会议举行经济主题记者会，就发展改革、财政预算、商务、金融证券等相关问题回答中外记者提问。中国证券监督管理委员会主席吴清在会上表示，目前A股总市值超过110万亿元。\n\n吴清介绍，目前，5400多..."
+      }
+    ],
+    "global_news": [
+      {
+        "title": "DeepSeek人工智能与加密货币：2026年每位投资者都需要了解的内容",
+        "url": "https://financefeeds.com/zh-CN/deepseek-ai-and-crypto/",
+        "content": "FinanceFeeds 徽标\n\n# DeepSeek人工智能与加密货币：2026年每位投资者都需要了解的内容\n\nDamilola Esebame 的图片\nDeepSeek人工智能与加密货币：2026年每位投资者都需要了解的内容\n\n关键要点\n\n2025年，很少有事件像……的到来那样撼动加密货币世界。 DeepSeek这家中国人工智能初创公司没有发行代币，没有进行预售，也没有宣布与任何区块链协议合作..."
+      },
+      {
+        "title": "[PDF] 科技行业2026 年展望:AI 算法迭代扩容算力底座,生态繁荣重塑增长边界",
+        "url": "https://www.spdbi.com/getfile/index/action/images/name/%E7%A7%91%E6%8A%80%E8%A1%8C%E4%B8%9A2026%E5%B9%B4%E5%B1%95%E6%9C%9B%EF%BC%9AAI%E7%AE%97%E6%B3%95%E8%BF%AD%E4%BB%A3%E6%89%A9%E5%AE%B9%E7%AE%97%E5%8A%9B%E5%BA%95%E5%BA%A7%EF%BC%8C%E7%94%9F%E6%80%81%E7%B9%81%E8%8D%A3%E9%87%8D%E5%A1%91%E5%A2%9E%E9%95%BF%E8%BE%B9%E7%95%8C_%E6%B5%A6%E9%93%B6%E5%9B%BD%E9%99%85%E7%A0%94%E7%A9%B6.pdf",
+        "content": "行业竞争激烈。 阿里巴巴 (BABA.US/9988.HK) 快手 (1024.HK) Sea (SE.US) 游戏 长青游戏成为行业中坚力量， 行业储备 值得期待。 1. 长青游戏表现下滑； 2. 新品表现不及预期； 3. 其余娱乐方式抢占用户游戏时长。 腾讯 (700.HK) 网易 (NTES.US/9999.HK) 哔哩哔哩 (BILI.US/9626.HK) 心动（2400.HK） 在线音..."
+      },
+      {
+        "title": "一位科技投资者表示，加密货币不应纳入人工智能投资组合 - CoinDesk",
+        "url": "https://www.coindesk.com/zh/markets/2026/03/09/crypto-doesn-t-belong-in-ai-portfolio-as-it-s-a-different-animal-says-tech-investor-and-former-snap-exec",
+        "content": "价格\n 研究\n Consensus 2026\n 赞助\n\nConsensus 2026\n\nConsensus 2026\n\nAct Now. Prices Increase Soon.\n\n56\n\nMIN\n\n17\n\nSEC\n\nRegister Now\n\n市场\n\n分享这篇文章\n\nX iconX (Twitter)\nLinkedIn\nFacebook\n电子邮件\n\n# 科技投资者兼前Snap高管表示，加密货币..."
+      }
+    ]
+  }
+}
