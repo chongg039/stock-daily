@@ -1,0 +1,166 @@
+{
+  "date": "2026-03-31",
+  "timestamp": "2026-03-31T09:58:22.167988",
+  "us_stocks": {
+    "道琼斯": {
+      "symbol": "^DJI",
+      "date": "2026-03-30",
+      "close": "45216.14",
+      "open": "45283.06",
+      "high": "45625.76",
+      "low": "45057.28",
+      "volume": "413251947"
+    },
+    "标普 500": {
+      "symbol": "^SPX",
+      "date": "2026-03-30",
+      "close": "6343.72",
+      "open": "6403.37",
+      "high": "6427.31",
+      "low": "6316.91",
+      "volume": "3268783899"
+    },
+    "苹果": {
+      "symbol": "AAPL",
+      "date": "2026-03-30",
+      "close": "246.54",
+      "open": "250.07",
+      "high": "250.87",
+      "low": "245.51",
+      "volume": "39095752"
+    },
+    "微软": {
+      "symbol": "MSFT",
+      "date": "2026-03-30",
+      "close": "358.76",
+      "open": "361.895",
+      "high": "365.36",
+      "low": "356.28",
+      "volume": "44558978"
+    },
+    "谷歌": {
+      "symbol": "GOOGL",
+      "date": "2026-03-30",
+      "close": "273.51",
+      "open": "276.42",
+      "high": "277.09",
+      "low": "272.11",
+      "volume": "35062005"
+    },
+    "亚马逊": {
+      "symbol": "AMZN",
+      "date": "2026-03-30",
+      "close": "200.9",
+      "open": "201.48",
+      "high": "203.8",
+      "low": "199.9802",
+      "volume": "46170560"
+    },
+    "英伟达": {
+      "symbol": "NVDA",
+      "date": "2026-03-30",
+      "close": "165.17",
+      "open": "168.78",
+      "high": "169.4399",
+      "low": "164.27",
+      "volume": "184575578"
+    },
+    "Meta": {
+      "symbol": "META",
+      "date": "2026-03-30",
+      "close": "536.38",
+      "open": "536.38",
+      "high": "539.55",
+      "low": "528.54",
+      "volume": "22753770"
+    },
+    "特斯拉": {
+      "symbol": "TSLA",
+      "date": "2026-03-30",
+      "close": "355.28",
+      "open": "365.86",
+      "high": "367.29",
+      "low": "352.14",
+      "volume": "67652590"
+    }
+  },
+  "cn_stocks": {
+    "上证指数": {
+      "symbol": "000001",
+      "close": "3940.81",
+      "open": "3924.07",
+      "high": "3924.07",
+      "low": "3924.07",
+      "change": "0.45%"
+    },
+    "深证成指": {
+      "symbol": "399001",
+      "close": "13736.35",
+      "open": "13652.69",
+      "high": "13683.68",
+      "low": "13652.69",
+      "change": "0.07%"
+    },
+    "创业板指": {
+      "symbol": "399006",
+      "close": "3257.91",
+      "open": "3237.42",
+      "high": "3247.28",
+      "low": "3237.42",
+      "change": "-0.47%"
+    }
+  },
+  "news": {
+    "us_news": [
+      {
+        "title": "美股快报｜2026年2月美股资金轮动下的赢家与方向 - ACY Securities",
+        "url": "https://acy.com/zh/market-news/market-analysis/winners-and-directions-in-us-stock-market-fund-rotation-in-feb-2026-monthly-report-c-t-112135/",
+        "content": "# 美股快报｜2026年2月美股资金轮动下的赢家与方向\n\nCindy Tsai - 量化策略分析师\n\n2026-02-04 11:09:09\n\ngo to instagramgo to instagramgo to linkedingo to linkedingo to youtubego to youtubego to twittergo to twittergo to facebookgo t..."
+      },
+      {
+        "title": "全球金融市场早评：2026年2月11日——股指分化延续，AI赛 ... - 财富号",
+        "url": "https://caifuhao.eastmoney.com/news/20260211065954029870080",
+        "content": "7. 消费电子\n\n利亚德因原材料涨价上调LED显示屏产品价格3%-15%；腾讯混元推出0.3B端侧量化模型。\n\n四、机构观点与政策风向\n\n1. 机构评述\n\n凯投宏观：预测标普500指数年底或涨至8000点，科技股盈利前景乐观。\n\n高盛CEO所罗门：看好美国经济增长，但警示贸易、通胀与地缘风险；认为软件股抛售过度。\n\n摩根大通：市场对AI冲击软件股的担忧过度，板块有望反弹。\n\n美银：将美股原材料板块..."
+      },
+      {
+        "title": "本周美股行情- 2026-02-16 - TradingKey",
+        "url": "https://www.tradingkey.com/zh-hans/tools/market-update/us-stock-market-this-week-20260216",
+        "content": "• 关键事件分析：超过100家标普500指数成份股公司公布了财报，包括2月9日的安森美（onsemi）、信安金融集团（Principal Financial Group）、Medpace、固特异（Goodyear）和沃那多（Vornado）。其他备受期待的财报包括Robinhood、AppLovin和Coinbase。美联储官员（包括亚特兰大联储主席拉斐尔·博斯蒂克以及美联储理事克里斯托弗·沃勒和..."
+      }
+    ],
+    "cn_news": [
+      {
+        "title": "沪深股市交易提示（2月16日） - 新浪财经",
+        "url": "https://finance.sina.com.cn/roll/2026-02-16/doc-inhmyknq3122038.shtml",
+        "content": "| 股票代码 | 股票简称 | 解禁日期 | 解禁数（万股） | 解禁市值（元） | 占总股本比例（%） |\n ---  ---  --- |\n| 000100.SZ | TCL科技 | 2026年2月24日 | 103548.9574 | 47.22亿 | 4.98 |\n| 000568.SZ | 泸州老窖 | 2026年2月24日 | 199.0614 | 2.31亿 | 0.14 |\n| 0..."
+      },
+      {
+        "title": "清华证研院：2026年2月A股市场规模再创新高，市值结构优化 ...",
+        "url": "http://www.news.cn/finance/20260316/37614982eab54ac7a3241f4af9a7b74c/c.html",
+        "content": "市场板块方面，整体看，相较1月份，所有板块市值环比均实现上涨，其中，上交所主板市值增加0.68万亿元，上涨1.21%，深交所主板市值增加0.98万亿元，上涨3.44%，科创板市值增加0.25万亿元，上涨2.11%，创业板市值增加0.46万亿元，上涨2.41%，北交所市值增加0.006万亿元，较1月份上涨0.67%。迟永胜分析，深交所主板凭借3.44%的涨幅领跑，凸显出市场对中小盘成长标的的关注度提..."
+      },
+      {
+        "title": "四大证券报头版头条内容精华摘要_2026年2月12日 - 新浪财经",
+        "url": "https://finance.sina.cn/stock/ywgg/2026-02-12/detail-inhmpcun3204054.d.html?oid=%E5%8A%B3%E5%8A%9B%E5%A3%AB%E4%BB%8E%E5%93%AA%E9%87%8C%E5%8F%91%E8%B4%A7%E4%BE%BF%E5%AE%9C%E2%94%84%E5%BE%AE%E4%BF%A189486682%E2%94%84xdkt&vt=4&cid=76699&node_id=76699",
+        "content": "上市公司春节前分红已超3400亿元 金融和大消费行业是主力\n\n上海证券报记者从中国证监会有关部门获悉，A股上市公司春节前分红金额再创新高。数据显示，2025年12月至2026年1月底，沪深北交易所共有235家上市公司实施春节前分红，金额合计3488亿元，已超过2025年春节前3446亿元的分红总额。\n\n证券时报\n\n国办部署完善统一电力市场体系 各层次市场要从“各自报价、各自交易”逐步转向“统一报价..."
+      }
+    ],
+    "global_news": [
+      {
+        "title": "随着英伟达黄仁勋谈及代理智能未来，AI相关加密代币大幅上涨",
+        "url": "https://www.coindesk.com/zh/markets/2026/03/16/ai-linked-crypto-tokens-surge-as-nvidia-s-jensen-huang-touts-agentic-future",
+        "content": "# 随着英伟达黄仁勋谈及代理智能未来，AI相关加密代币大幅上涨\n\n## 首席执行官黄仁勋预测，到2027年，芯片需求将达到1万亿美元，并赞扬了OpenClaw及代理智能系统的快速崛起。\n\n(Nvidia CEO Jensen Huang speaks at CES 2026 in Las Vegas/Nvidia)\n\n#### 需要了解的:\n\n与人工智能相关的加密货币周一持续上涨，此前英伟达首席执..."
+      },
+      {
+        "title": "问题解答:比特币2026年展望:挖矿已成过去式,AI才是新风口? - 新浪财经",
+        "url": "https://cj.sina.cn/articles/view/7879922977/1d5ae152101901dnog?froms=ggmp&vt=4",
+        "content": "因此，挖矿并未“过去”，而是在进化。它可能从大众参与的“淘金热”，转变为更专业化、更绿色、更集成化的基础设施行业。\n\nAI：不可忽视的新风口与融合催化剂\n\n与此同时，AI无疑是当前最具变革性的技术力量。它对比特币及整个加密生态的影响，并非简单的“取代”，而是深层次的“赋能”与“融合”：\n\n1. 市场分析与交易智能化：AI算法已在预测市场趋势、执行高频交易、管理投资组合方面展现出强大能力。到2026..."
+      },
+      {
+        "title": "CFO財報解密  2026年AI板塊重心︰淨現金流（Benny） - Yahoo 財經",
+        "url": "https://hk.finance.yahoo.com/news/cfo%E8%B2%A1%E5%A0%B1%E8%A7%A3%E5%AF%86-%E2%94%822026%E5%B9%B4ai%E6%9D%BF%E5%A1%8A%E9%87%8D%E5%BF%83%EF%B8%B0%E6%B7%A8%E7%8F%BE%E9%87%91%E6%B5%81%EF%BC%88benny%EF%BC%89-003058961.html",
+        "content": "投資組合\n 新聞\n  + 最新新聞\n  + Yahoo財經\n  + Yahoo Money Talk\n  + Tech\n  + AI大時代\n 外幣\n  + 外幣報價\n  + 外幣兌換攻略\n  + 日圓兌港元\n  + 英鎊兌港元\n  + 澳元兌港元\n  + 美元兌港元\n  + 港元兌人民幣\n  + 港元兌台幣\n  + 加元兌港元\n  + 歐元兌港元\n  + 貨幣轉換器\n 港股\n  + 港股首頁\n  ..."
+      }
+    ]
+  }
+}
