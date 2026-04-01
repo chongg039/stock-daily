@@ -1,0 +1,166 @@
+{
+  "date": "2026-04-01",
+  "timestamp": "2026-04-01T09:43:10.577112",
+  "us_stocks": {
+    "道琼斯": {
+      "symbol": "^DJI",
+      "date": "2026-03-31",
+      "close": "46341.51",
+      "open": "45541.76",
+      "high": "46383.4",
+      "low": "45480.3",
+      "volume": "484606204"
+    },
+    "标普 500": {
+      "symbol": "^SPX",
+      "date": "2026-03-31",
+      "close": "6528.52",
+      "open": "6395.88",
+      "high": "6539.05",
+      "low": "6395.88",
+      "volume": "3882633104"
+    },
+    "苹果": {
+      "symbol": "AAPL",
+      "date": "2026-03-31",
+      "close": "253.82",
+      "open": "247.91",
+      "high": "255.48",
+      "low": "247.101",
+      "volume": "49537485"
+    },
+    "微软": {
+      "symbol": "MSFT",
+      "date": "2026-03-31",
+      "close": "370.15",
+      "open": "364.55",
+      "high": "372.9",
+      "low": "363.07",
+      "volume": "45116566"
+    },
+    "谷歌": {
+      "symbol": "GOOGL",
+      "date": "2026-03-31",
+      "close": "287.56",
+      "open": "278.04",
+      "high": "288.08",
+      "low": "277.09",
+      "volume": "43786195"
+    },
+    "亚马逊": {
+      "symbol": "AMZN",
+      "date": "2026-03-31",
+      "close": "208.31",
+      "open": "204.845",
+      "high": "210.28",
+      "low": "204.14",
+      "volume": "58344608"
+    },
+    "英伟达": {
+      "symbol": "NVDA",
+      "date": "2026-03-31",
+      "close": "174.445",
+      "open": "166.97",
+      "high": "174.62",
+      "low": "166.96",
+      "volume": "225229988"
+    },
+    "Meta": {
+      "symbol": "META",
+      "date": "2026-03-31",
+      "close": "571.8",
+      "open": "549.98",
+      "high": "573.69",
+      "low": "546.77",
+      "volume": "32794565"
+    },
+    "特斯拉": {
+      "symbol": "TSLA",
+      "date": "2026-03-31",
+      "close": "371.75",
+      "open": "361.51",
+      "high": "373.33",
+      "low": "361.13",
+      "volume": "75268328"
+    }
+  },
+  "cn_stocks": {
+    "上证指数": {
+      "symbol": "000001",
+      "close": "3935.95",
+      "open": "3929.92",
+      "high": "3939.57",
+      "low": "3929.92",
+      "change": "1.13%"
+    },
+    "深证成指": {
+      "symbol": "399001",
+      "close": "13650.00",
+      "open": "13603.79",
+      "high": "13731.39",
+      "low": "13603.79",
+      "change": "1.28%"
+    },
+    "创业板指": {
+      "symbol": "399006",
+      "close": "3226.49",
+      "open": "3206.80",
+      "high": "3255.26",
+      "low": "3206.80",
+      "change": "1.30%"
+    }
+  },
+  "news": {
+    "us_news": [
+      {
+        "title": "本周美股行情- 2026-02-16 - TradingKey",
+        "url": "https://www.tradingkey.com/zh-hans/tools/market-update/us-stock-market-this-week-20260216",
+        "content": "• 关键事件分析：超过100家标普500指数成份股公司公布了财报，包括2月9日的安森美（onsemi）、信安金融集团（Principal Financial Group）、Medpace、固特异（Goodyear）和沃那多（Vornado）。其他备受期待的财报包括Robinhood、AppLovin和Coinbase。美联储官员（包括亚特兰大联储主席拉斐尔·博斯蒂克以及美联储理事克里斯托弗·沃勒和..."
+      },
+      {
+        "title": "凌晨，全线跳水！美联储降息，大消息！ - 证券时报",
+        "url": "https://www.stcn.com/article/detail/3567749.html",
+        "content": "首页\n 快讯\n 要闻\n 股市\n 新股\n 信披+\n 人民鉴真\n 港美股\n 数据\n 公司\n 基金\n 金融\n 视听\n 评论\n 专题\n 产经\n 创投\n 科创板\n 新三板\n 投教\n ESG\n 滚动\n\n公众号\n\n 电子报 客户端\n\n您当前的位置：证券时报 > 港美股 > 正文\n\n来源：证券时报网作者：周乐2026-01-01 07:44\n\n分享\n\n2025年收官日，美股全线下挫。\n\n北京时间2026年1月1日..."
+      },
+      {
+        "title": "美股快报｜2026年2月美股资金轮动下的赢家与方向 - ACY Securities",
+        "url": "https://acy.com/zh/market-news/market-analysis/winners-and-directions-in-us-stock-market-fund-rotation-in-feb-2026-monthly-report-c-t-112135/",
+        "content": "# 美股快报｜2026年2月美股资金轮动下的赢家与方向\n\nCindy Tsai - 量化策略分析师\n\n2026-02-04 11:09:09\n\ngo to instagramgo to instagramgo to linkedingo to linkedingo to youtubego to youtubego to twittergo to twittergo to facebookgo t..."
+      }
+    ],
+    "cn_news": [
+      {
+        "title": "沪丶深港通 SH/SZ-HK Stock Connect - 中国市场新闻",
+        "url": "https://www.aastocks.com/sc/cnhk/news/china-hot-topic-content.aspx?id=GLH5178619N&catg=4&source=GLH",
+        "content": "3月3日丨嘉泽新能(601619.SH) -0.110 (-1.957%)) 公布，公司获悉，基金管理人国金基金管理有限公司于2026年2月26日向中国证券监督管理委员会（以下简称中国证监会）和上海证券交易所（以下简称上交所）提交了国金嘉泽新能源封闭式基础设施证券投资基金（REITs）项目（以下简称基础设施公募REITs，具体名称以中国证监会注册名称为准）的申报材料，并于2026年3月3日收到中国..."
+      },
+      {
+        "title": "沪丶深港通 SH/SZ-HK Stock Connect - 中国市场新闻",
+        "url": "http://www.aastocks.com/sc/cnhk/news/china-hot-topic-content.aspx?id=GLH5178619N&catg=4&source=GLH",
+        "content": "3月3日丨嘉泽新能(601619.SH) -0.110 (-1.957%)) 公布，公司获悉，基金管理人国金基金管理有限公司于2026年2月26日向中国证券监督管理委员会（以下简称中国证监会）和上海证券交易所（以下简称上交所）提交了国金嘉泽新能源封闭式基础设施证券投资基金（REITs）项目（以下简称基础设施公募REITs，具体名称以中国证监会注册名称为准）的申报材料，并于2026年3月3日收到中国..."
+      },
+      {
+        "title": "2026年2月12日A股市场深度复盘报告 - UniFuncs",
+        "url": "https://unifuncs.com/s/lKr5nQ1k",
+        "content": "来源：证券时报网作者：王军2026-02-12(1天前) 20:59 盘后数据出炉。 2月12日，A股全天窄幅整理，节前市场交投相对平淡。截至收盘，上证指数涨0.05%，深证成指涨0.86%，创业板指涨1.32%。A股全天成交2.16万亿元，上日成交2万亿元。 1.两市主力资金净流出 [...] 3板及以上涨停家数 ：增至5只96finance.sina.comfinance.sina.com焦点..."
+      }
+    ],
+    "global_news": [
+      {
+        "title": "随着英伟达黄仁勋谈及代理智能未来，AI相关加密代币大幅上涨",
+        "url": "https://www.coindesk.com/zh/markets/2026/03/16/ai-linked-crypto-tokens-surge-as-nvidia-s-jensen-huang-touts-agentic-future",
+        "content": "# 随着英伟达黄仁勋谈及代理智能未来，AI相关加密代币大幅上涨\n\n## 首席执行官黄仁勋预测，到2027年，芯片需求将达到1万亿美元，并赞扬了OpenClaw及代理智能系统的快速崛起。\n\n(Nvidia CEO Jensen Huang speaks at CES 2026 in Las Vegas/Nvidia)\n\n#### 需要了解的:\n\n与人工智能相关的加密货币周一持续上涨，此前英伟达首席执..."
+      },
+      {
+        "title": "数字资产前沿：加密货币在2026年如何重塑全球金融 - TradingKey",
+        "url": "https://www.tradingkey.com/zh-hans/analysis/cryptocurrencies/btc/261730583-cryptocurrency-crypto-eth-btc-defi-rwa-finance-ai-agent-tradingkey",
+        "content": "tradingkey.logo\n\n股票评分\n\n股票评分\n\n\n\n一键诊股 让投资更聪明\n\n\n\nTradingKey\n\n作者Block Tao\n\n2026年3月29日 12:03\n\nAI播客\n\n2026年金融格局显示数字资产正演变为货币的未来，机构稳定性与监管框架显著增强。去中心化金融（DeFi）成为投资组合管理基石，了解加密货币成为基本要求。加密货币作为无需银行中介的点对点支付系统，已发展成价值数..."
+      },
+      {
+        "title": "垂直的：预计到2026年，全球人工智能支出将达到2.52万亿美元",
+        "url": "https://www.weex.com/zh-CN/news/detail/vertical-global-ai-spend-to-reach-252-trillion-in-2026-370551",
+        "content": "logo\nfees\n\n快捷买币\n\n支持Visa、Mastercard、Apple Pay、Google Pay、PIX、SEPA买币\n\ngold\n\nU本位合约\n\n以USDT结算的永续合约\n\n模拟交易\n\nU本位合约模拟盘\n\n合约介绍\n\n合约交易相关介绍\n\n合约榜单\n\n实时及往期合约榜单\n\nStaking\n\n立即申购，开启稳健收益之旅\n\n自动赚币\n\n资金不动，收益不停，马上体验自动赚币\n\n保护基金\n\n..."
+      }
+    ]
+  }
+}
