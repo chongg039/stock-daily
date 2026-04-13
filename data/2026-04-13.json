@@ -1,0 +1,166 @@
+{
+  "date": "2026-04-13",
+  "timestamp": "2026-04-13T09:53:15.750168",
+  "us_stocks": {
+    "道琼斯": {
+      "symbol": "^DJI",
+      "date": "2026-04-10",
+      "close": "47916.57",
+      "open": "48199.39",
+      "high": "48235.06",
+      "low": "47856.18",
+      "volume": "371307601"
+    },
+    "标普 500": {
+      "symbol": "^SPX",
+      "date": "2026-04-10",
+      "close": "6816.89",
+      "open": "6839.24",
+      "high": "6845.77",
+      "low": "6808.46",
+      "volume": "2755491777"
+    },
+    "苹果": {
+      "symbol": "AAPL",
+      "date": "2026-04-10",
+      "close": "260.48",
+      "open": "259.98",
+      "high": "262.19",
+      "low": "259.02312",
+      "volume": "31291473"
+    },
+    "微软": {
+      "symbol": "MSFT",
+      "date": "2026-04-10",
+      "close": "370.87",
+      "open": "372.98",
+      "high": "375.64",
+      "low": "370.03",
+      "volume": "28111128"
+    },
+    "谷歌": {
+      "symbol": "GOOGL",
+      "date": "2026-04-10",
+      "close": "317.24",
+      "open": "320.015",
+      "high": "321.83",
+      "low": "316.32",
+      "volume": "19152630"
+    },
+    "亚马逊": {
+      "symbol": "AMZN",
+      "date": "2026-04-10",
+      "close": "238.38",
+      "open": "235.295",
+      "high": "240.43",
+      "low": "235.21",
+      "volume": "56912842"
+    },
+    "英伟达": {
+      "symbol": "NVDA",
+      "date": "2026-04-10",
+      "close": "188.63",
+      "open": "184.31",
+      "high": "190",
+      "low": "184.3",
+      "volume": "160459524"
+    },
+    "Meta": {
+      "symbol": "META",
+      "date": "2026-04-10",
+      "close": "629.86",
+      "open": "634.47",
+      "high": "638.58",
+      "low": "624.33",
+      "volume": "13294844"
+    },
+    "特斯拉": {
+      "symbol": "TSLA",
+      "date": "2026-04-10",
+      "close": "348.95",
+      "open": "346.285",
+      "high": "350.36",
+      "low": "342.74",
+      "volume": "51336034"
+    }
+  },
+  "cn_stocks": {
+    "上证指数": {
+      "symbol": "000001",
+      "close": "3978.00",
+      "open": "3966.20",
+      "high": "3971.20",
+      "low": "3966.20",
+      "change": "-0.21%"
+    },
+    "深证成指": {
+      "symbol": "399001",
+      "close": "14349.43",
+      "open": "14233.11",
+      "high": "14233.11",
+      "low": "14233.11",
+      "change": "0.28%"
+    },
+    "创业板指": {
+      "symbol": "399006",
+      "close": "3464.20",
+      "open": "3434.32",
+      "high": "3434.32",
+      "low": "3434.32",
+      "change": "0.45%"
+    }
+  },
+  "news": {
+    "us_news": [
+      {
+        "title": "美股快报｜2026年2月美股资金轮动下的赢家与方向",
+        "url": "https://acy.com/zh/market-news/market-analysis/winners-and-directions-in-us-stock-market-fund-rotation-in-feb-2026-monthly-report-c-t-112135/",
+        "content": "# 美股快报｜2026年2月美股资金轮动下的赢家与方向\n\nCindy Tsai - 量化策略分析师\n\n2026-02-04 11:09:09\n\ngo to instagramgo to instagramgo to linkedingo to linkedingo to youtubego to youtubego to twittergo to twittergo to facebookgo t..."
+      },
+      {
+        "title": "2月19日收盘：美股收高科技股领涨 市场关注联储会议纪要_新浪财经_新浪网",
+        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-02-19/doc-inhnhviy4529023.shtml?cre=tianyi&mod=pcpager_fintoutiao&loc=5&r=0&rfunc=76&tj=cxvertical_pc_pager_spt&tr=12",
+        "content": "# 2月19日收盘：美股收高科技股领涨 市场关注联储会议纪要\n\n　　北京时间2月19日凌晨，美股周三收高。最新联储政策会议纪要凸显通胀担忧，并且官员们对随后的货币政策方向存在分歧。美国声称仍然存在对伊朗动武的可能性，导致国际油价大涨。\n\n　　道指涨129.47点，涨幅为0.26%，报49662.66点；纳指涨175.25点，涨幅为0.78%，报22753.63点；标普500指数涨38.09点，涨幅..."
+      },
+      {
+        "title": "2026年股市崩盘：美联储信号与经济数据对投资者的意义",
+        "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/261613286-stockmarketcrash-federalreserve-interestrates-inflation-recession-yieldcurve-valuation-volatility-creditmarkets-riskmanagement-tradingkey",
+        "content": "tradingkey.logo\n\n搜索\n\n\n\n一键诊股 让投资更聪明\n\n\n\nTradingKey\n\n作者Huanyao Fang\n\n2026年2月24日 05:23\n\nAI播客\n\n投资者情绪低迷，多重因素交织，可能增加2026年股市崩盘的风险。美联储对经济增长放缓和金融状况收紧的担忧，加上高企的借贷成本、部分板块估值过高以及企业和消费者债务负担增加，预示着市场可能出现调整。科技和成长股尤其易受..."
+      }
+    ],
+    "cn_news": [
+      {
+        "title": "2026年2月9日A股市场深度复盘报告 - U深研",
+        "url": "https://unifuncs.com/s/044emFNG",
+        "content": "涨幅居前行业：通信（5.17%）、综合（4.70%）112stcnstcn2月9日主力资金流向日报来源：证券时报网 作者：数据宝 2026-02-09(1天前) 17:35 2月9日，沪指上涨1.41%，深成指上涨2.17%，创业板指上涨2.98%，沪深300指数上涨1.63%。可交易A股中，上涨的有4612只，占比84.39%，下跌的759只。 资金面上，今日主力资金全天净流入330.38亿元。..."
+      },
+      {
+        "title": "2026年2月12日A股市场深度复盘报告",
+        "url": "https://unifuncs.com/s/lKr5nQ1k",
+        "content": "来源：证券时报网作者：王军2026-02-12(1天前) 20:59 盘后数据出炉。 2月12日，A股全天窄幅整理，节前市场交投相对平淡。截至收盘，上证指数涨0.05%，深证成指涨0.86%，创业板指涨1.32%。A股全天成交2.16万亿元，上日成交2万亿元。 1.两市主力资金净流出 [...] 2. 小金属板块 （置信度：高） [...] 3. 个股表现统计 （置信度：高）"
+      },
+      {
+        "title": "清华证研院：2026年2月A股市场规模再创新高，市值结构优化 ...",
+        "url": "http://www.news.cn/finance/20260316/37614982eab54ac7a3241f4af9a7b74c/c.html",
+        "content": "市场板块方面，整体看，相较1月份，所有板块市值环比均实现上涨，其中，上交所主板市值增加0.68万亿元，上涨1.21%，深交所主板市值增加0.98万亿元，上涨3.44%，科创板市值增加0.25万亿元，上涨2.11%，创业板市值增加0.46万亿元，上涨2.41%，北交所市值增加0.006万亿元，较1月份上涨0.67%。迟永胜分析，深交所主板凭借3.44%的涨幅领跑，凸显出市场对中小盘成长标的的关注度提..."
+      }
+    ],
+    "global_news": [
+      {
+        "title": "随着英伟达黄仁勋谈及代理智能未来，AI相关加密代币大幅上涨",
+        "url": "https://www.coindesk.com/zh/markets/2026/03/16/ai-linked-crypto-tokens-surge-as-nvidia-s-jensen-huang-touts-agentic-future",
+        "content": "# Nvidia（NVDA）新闻：首席执行官黄仁勋的主题演讲推动人工智能加密代币行情\n\nLinkedInFacebook电子邮件\n\n# 随着英伟达黄仁勋谈及代理智能未来，AI相关加密代币大幅上涨\n\n## 首席执行官黄仁勋预测，到2027年，芯片需求将达到1万亿美元，并赞扬了OpenClaw及代理智能系统的快速崛起。\n\n作者 Krisztian Sandor|编辑者 Nikhilesh De\n\n 2..."
+      },
+      {
+        "title": "2026年科技大变革：AI 黑客攻击、加密货币盗窃和创业融资狂潮主导 ...",
+        "url": "https://coaio.com/zh/news/2026/04/2026s-tech-shakeup-ai-hacks-crypto-heists-and-startup-funding-2lcc/",
+        "content": "## AI和硬件进步\n\nAI持续推动创新，Cognichip获得6000万美元融资，用于利用AI设计AI驱动芯片，可能将开发成本降低超过75% TechCrunch, 2026。这一融资轮标志着AI硬件的繁荣，公司寻求优化性能和效率。与此同时，Google升级了其Vids平台，引入新的AI模型如Veo和Lyria，提升视频创作能力 Ars Technica, 2026。Google的Gemma 4..."
+      },
+      {
+        "title": "亚马逊考虑向其他企业出售其AI芯片 | WEEX加密货币新闻",
+        "url": "https://www.weex.com/zh-CN/news/detail/amazon-is-considering-selling-its-ai-chip-to-other-companies-638457",
+        "content": "### 2026年稳定币规模将达3150亿美元：为什么这是当前加密货币领域最大的趋势\n\n比特币可能正在6.5万美元附近形成2026年的底部。了解关税冲击、ETF资金流入以及地缘政治信号将如何推动比特币向7.5万美元关口发起下一轮突破。\n\n### 为什么美伊停火注定无法持续？\n\n### Tiger Research：万字解析 Crypto 最赚钱的业务及其商业模式\n\n### 币圈起家，Hermes ..."
+      }
+    ]
+  }
+}
