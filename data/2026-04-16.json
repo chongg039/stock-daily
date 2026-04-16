@@ -1,0 +1,166 @@
+{
+  "date": "2026-04-16",
+  "timestamp": "2026-04-16T09:21:04.223138",
+  "us_stocks": {
+    "道琼斯": {
+      "symbol": "^DJI",
+      "date": "2026-04-15",
+      "close": "48463.72",
+      "open": "48549.14",
+      "high": "48709.01",
+      "low": "48281.62",
+      "volume": "405419164"
+    },
+    "标普 500": {
+      "symbol": "^SPX",
+      "date": "2026-04-15",
+      "close": "7022.95",
+      "open": "6978.17",
+      "high": "7026.24",
+      "low": "6967.13",
+      "volume": "3051564570"
+    },
+    "苹果": {
+      "symbol": "AAPL",
+      "date": "2026-04-15",
+      "close": "266.38",
+      "open": "258.16",
+      "high": "266.56",
+      "low": "257.81",
+      "volume": "49722663"
+    },
+    "微软": {
+      "symbol": "MSFT",
+      "date": "2026-04-15",
+      "close": "411.2728",
+      "open": "398",
+      "high": "414.3699",
+      "low": "396.73",
+      "volume": "44776616"
+    },
+    "谷歌": {
+      "symbol": "GOOGL",
+      "date": "2026-04-15",
+      "close": "337.12",
+      "open": "332.89",
+      "high": "337.48",
+      "low": "330.9",
+      "volume": "24873443"
+    },
+    "亚马逊": {
+      "symbol": "AMZN",
+      "date": "2026-04-15",
+      "close": "248.425",
+      "open": "249.25",
+      "high": "250.44",
+      "low": "247.2",
+      "volume": "42940966"
+    },
+    "英伟达": {
+      "symbol": "NVDA",
+      "date": "2026-04-15",
+      "close": "198.82",
+      "open": "196.54",
+      "high": "200.4",
+      "low": "195.74",
+      "volume": "184899338"
+    },
+    "Meta": {
+      "symbol": "META",
+      "date": "2026-04-15",
+      "close": "671.502",
+      "open": "667",
+      "high": "678.5",
+      "low": "664.38",
+      "volume": "14923252"
+    },
+    "特斯拉": {
+      "symbol": "TSLA",
+      "date": "2026-04-15",
+      "close": "392.1",
+      "open": "366.83",
+      "high": "394.64",
+      "low": "362.51",
+      "volume": "113326698"
+    }
+  },
+  "cn_stocks": {
+    "上证指数": {
+      "symbol": "000001",
+      "close": "4027.21",
+      "open": "0.00",
+      "high": "0.00",
+      "low": "0.00",
+      "change": "0.00%"
+    },
+    "深证成指": {
+      "symbol": "399001",
+      "close": "14498.45",
+      "open": "0.00",
+      "high": "0.00",
+      "low": "0.00",
+      "change": "0.00%"
+    },
+    "创业板指": {
+      "symbol": "399006",
+      "close": "3514.96",
+      "open": "0.00",
+      "high": "0.00",
+      "low": "0.00",
+      "change": "0.00%"
+    }
+  },
+  "news": {
+    "us_news": [
+      {
+        "title": "2026年2月9日美股收涨：道指站稳50000点，科技股反弹重拾升势",
+        "url": "https://www.gilin.com.cn/news/24027-research",
+        "content": "系统性考量\n\n：比特币在经历一周大幅下跌后逼近70000美元，分析师称之为“信心危机”，这引入了加密货币相关性风险，可能会越来越多地影响更广泛风险资产的估值。逢低买入者回归推动黄金下跌0.75%至每盎司5,041.40美元，这表明大宗商品市场正在重新布局，可能预示着周五CPI数据公布前市场通胀预期的广泛变化。\n\n关键信息摘要\n\n2026年2月9日的收盘情况显示，美国股市仍具韧性，科技股在盘整后重新..."
+      },
+      {
+        "title": "本周美股行情- 2026-02-16",
+        "url": "https://www.tradingkey.com/zh-hans/tools/market-update/us-stock-market-this-week-20260216",
+        "content": "• 关键事件分析：超过100家标普500指数成份股公司公布了财报，包括2月9日的安森美（onsemi）、信安金融集团（Principal Financial Group）、Medpace、固特异（Goodyear）和沃那多（Vornado）。其他备受期待的财报包括Robinhood、AppLovin和Coinbase。美联储官员（包括亚特兰大联储主席拉斐尔·博斯蒂克以及美联储理事克里斯托弗·沃勒和..."
+      },
+      {
+        "title": "2026年股市崩盘：美联储信号与经济数据对投资者的意义",
+        "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/261613286-stockmarketcrash-federalreserve-interestrates-inflation-recession-yieldcurve-valuation-volatility-creditmarkets-riskmanagement-tradingkey",
+        "content": "tradingkey.logo\n\n搜索\n\n\n\n一键诊股 让投资更聪明\n\n\n\nTradingKey\n\n作者Huanyao Fang\n\n2026年2月24日 05:23\n\nAI播客\n\n投资者情绪低迷，多重因素交织，可能增加2026年股市崩盘的风险。美联储对经济增长放缓和金融状况收紧的担忧，加上高企的借贷成本、部分板块估值过高以及企业和消费者债务负担增加，预示着市场可能出现调整。科技和成长股尤其易受..."
+      }
+    ],
+    "cn_news": [
+      {
+        "title": "A股，重大调整！这些消息或将影响市场",
+        "url": "https://www.stcn.com/article/detail/3655906.html",
+        "content": "2月27日，证监会党委书记、主席吴清在北京召开座谈会，与8家在华外资证券基金期货机构代表深入交流，充分听取意见建议。\n\n吴清表示，中国证监会将认真贯彻落实党的二十届四中全会和即将召开的全国“两会”有关部署，扎实开展资本市场“十五五”规划相关工作，研究谋划好未来五年推动资本市场高质量发展的重点举措。吴清强调，要以科创板、创业板“两创板”改革为抓手，持续深化投融资综合改革，进一步健全资本市场制度、产品..."
+      },
+      {
+        "title": "2026年2月9日A股市场深度复盘报告 - U深研",
+        "url": "https://unifuncs.com/s/044emFNG",
+        "content": "涨幅居前行业：通信（5.17%）、综合（4.70%）112stcnstcn2月9日主力资金流向日报来源：证券时报网 作者：数据宝 2026-02-09(1天前) 17:35 2月9日，沪指上涨1.41%，深成指上涨2.17%，创业板指上涨2.98%，沪深300指数上涨1.63%。可交易A股中，上涨的有4612只，占比84.39%，下跌的759只。 资金面上，今日主力资金全天净流入330.38亿元。..."
+      },
+      {
+        "title": "四大证券报头版头条内容精华摘要_2026年2月12日_财经新闻_手机新浪网",
+        "url": "https://finance.sina.cn/stock/ywgg/2026-02-12/detail-inhmpcun3204054.d.html?oid=%E8%8A%9C%E6%B9%96%E6%B5%AA%E7%90%B4%E5%93%AA%E9%87%8C%E4%B9%B0%E6%AD%A3%E5%93%81%E4%BE%BF%E5%AE%9C%E2%96%81%E5%BE%AE%E4%BF%A189486682%E2%96%813wew&vt=4&cid=76699&node_id=76699",
+        "content": "上市公司春节前分红已超3400亿元 金融和大消费行业是主力\n\n上海证券报记者从中国证监会有关部门获悉，A股上市公司春节前分红金额再创新高。数据显示，2025年12月至2026年1月底，沪深北交易所共有235家上市公司实施春节前分红，金额合计3488亿元，已超过2025年春节前3446亿元的分红总额。\n\n证券时报\n\n国办部署完善统一电力市场体系 各层次市场要从“各自报价、各自交易”逐步转向“统一报价..."
+      }
+    ],
+    "global_news": [
+      {
+        "title": "全球资本加速涌入人工智能基础设施 - 靠谱新闻",
+        "url": "https://kaopu.news/story/2026-04-01/%E5%85%A8%E7%90%83%E8%B5%84%E6%9C%AC%E5%8A%A0%E9%80%9F%E6%B6%8C%E5%85%A5%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD-e97d11",
+        "content": "靠谱新闻\n\n# 全球资本加速涌入人工智能基础设施\n\n靠谱新闻编辑部·\n\n2026年3月下旬，多条来自亚洲与欧美的商业新闻显示，资金正集中流向人工智能相关的算力与基础设施领域。比特币挖矿企业开始将高耗能设施改造为AI数据中心，芯片、光互连和新型数据中心项目接连获得融资或推进上市。韩国、美国和中国企业均在近期披露了与AI硬件直接相关的投资、募资或战略动作。 在产业链上游，韩国AI芯片初创公司Rebel..."
+      },
+      {
+        "title": "Nvidia（NVDA）新闻：首席执行官黄仁勋的主题演讲推动人工智能加密代币行情",
+        "url": "https://www.coindesk.com/zh/markets/2026/03/16/ai-linked-crypto-tokens-surge-as-nvidia-s-jensen-huang-touts-agentic-future",
+        "content": "价格\n 研究\n Consensus 2026\n 赞助\n\n# 随着英伟达黄仁勋谈及代理智能未来，AI相关加密代币大幅上涨\n\n## 首席执行官黄仁勋预测，到2027年，芯片需求将达到1万亿美元，并赞扬了OpenClaw及代理智能系统的快速崛起。\n\n作者 Krisztian Sandor|编辑者 Nikhilesh De\n\n2026年3月16日 下午6:20\n由 AI 翻译\n\n在上将设为首选\n\n(Nvi..."
+      },
+      {
+        "title": "2026年科技大变革：AI 黑客攻击、加密货币盗窃和创业融资狂潮主导头条 - Coaio",
+        "url": "https://coaio.com/zh/news/2026/04/2026s-tech-shakeup-ai-hacks-crypto-heists-and-startup-funding-2lcc/",
+        "content": "## AI和硬件进步\n\nAI持续推动创新，Cognichip获得6000万美元融资，用于利用AI设计AI驱动芯片，可能将开发成本降低超过75% TechCrunch, 2026。这一融资轮标志着AI硬件的繁荣，公司寻求优化性能和效率。与此同时，Google升级了其Vids平台，引入新的AI模型如Veo和Lyria，提升视频创作能力 Ars Technica, 2026。Google的Gemma 4..."
+      }
+    ]
+  }
+}
