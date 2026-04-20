@@ -1,0 +1,166 @@
+{
+  "date": "2026-04-20",
+  "timestamp": "2026-04-20T09:13:17.337559",
+  "us_stocks": {
+    "道琼斯": {
+      "symbol": "^DJI",
+      "date": "2026-04-17",
+      "close": "49447.43",
+      "open": "48788.81",
+      "high": "49717.98",
+      "low": "48788.81",
+      "volume": "523780878"
+    },
+    "标普 500": {
+      "symbol": "^SPX",
+      "date": "2026-04-17",
+      "close": "7126.06",
+      "open": "7074.55",
+      "high": "7147.52",
+      "low": "7074.55",
+      "volume": "3623157140"
+    },
+    "苹果": {
+      "symbol": "AAPL",
+      "date": "2026-04-17",
+      "close": "270.23",
+      "open": "266.96",
+      "high": "272.3",
+      "low": "266.72",
+      "volume": "61436228"
+    },
+    "微软": {
+      "symbol": "MSFT",
+      "date": "2026-04-17",
+      "close": "422.79",
+      "open": "424.82",
+      "high": "431.58",
+      "low": "420.69",
+      "volume": "48568190"
+    },
+    "谷歌": {
+      "symbol": "GOOGL",
+      "date": "2026-04-17",
+      "close": "341.68",
+      "open": "337.65",
+      "high": "342.32",
+      "low": "336.24",
+      "volume": "25581881"
+    },
+    "亚马逊": {
+      "symbol": "AMZN",
+      "date": "2026-04-17",
+      "close": "250.56",
+      "open": "254.985",
+      "high": "256.18",
+      "low": "250.11",
+      "volume": "52029291"
+    },
+    "英伟达": {
+      "symbol": "NVDA",
+      "date": "2026-04-17",
+      "close": "201.68",
+      "open": "199.9",
+      "high": "201.7",
+      "low": "199.27",
+      "volume": "160324416"
+    },
+    "Meta": {
+      "symbol": "META",
+      "date": "2026-04-17",
+      "close": "688.55",
+      "open": "678.6",
+      "high": "691.52",
+      "low": "675.13",
+      "volume": "16283480"
+    },
+    "特斯拉": {
+      "symbol": "TSLA",
+      "date": "2026-04-17",
+      "close": "400.62",
+      "open": "395.92",
+      "high": "409.28",
+      "low": "391.65",
+      "volume": "90640032"
+    }
+  },
+  "cn_stocks": {
+    "上证指数": {
+      "symbol": "000001",
+      "close": "4051.43",
+      "open": "0.00",
+      "high": "0.00",
+      "low": "0.00",
+      "change": "0.00%"
+    },
+    "深证成指": {
+      "symbol": "399001",
+      "close": "14885.42",
+      "open": "0.00",
+      "high": "0.00",
+      "low": "0.00",
+      "change": "0.00%"
+    },
+    "创业板指": {
+      "symbol": "399006",
+      "close": "3678.29",
+      "open": "0.00",
+      "high": "0.00",
+      "low": "0.00",
+      "change": "0.00%"
+    }
+  },
+  "news": {
+    "us_news": [
+      {
+        "title": "2026年2月9日美股收涨：道指站稳50000点，科技股反弹重拾升势 - 金灵AI",
+        "url": "https://www.gilin.com.cn/news/24027-research",
+        "content": "系统性考量\n\n：比特币在经历一周大幅下跌后逼近70000美元，分析师称之为“信心危机”，这引入了加密货币相关性风险，可能会越来越多地影响更广泛风险资产的估值。逢低买入者回归推动黄金下跌0.75%至每盎司5,041.40美元，这表明大宗商品市场正在重新布局，可能预示着周五CPI数据公布前市场通胀预期的广泛变化。\n\n关键信息摘要\n\n2026年2月9日的收盘情况显示，美国股市仍具韧性，科技股在盘整后重新..."
+      },
+      {
+        "title": "美股快报｜2026年2月美股资金轮动下的赢家与方向 - ACY Securities",
+        "url": "https://acy.com/zh/market-news/market-analysis/winners-and-directions-in-us-stock-market-fund-rotation-in-feb-2026-monthly-report-c-t-112135/",
+        "content": "交易\n\n新闻 & 分析\n\nTim Cahill\n足球传奇 & ACY证券全球品牌大使\n\nTim Cahill\nTim Cahill Cartoon\n\n# 美股快报｜2026年2月美股资金轮动下的赢家与方向\n\nCindy Tsai - 量化策略分析师\n\n2026-02-04 11:09:09\n\ngo to instagram\ngo to instagram\ngo to linkedin\ngo to ..."
+      },
+      {
+        "title": "本周美股行情 - 2026-02-16 - TradingKey",
+        "url": "https://www.tradingkey.com/zh-hans/tools/market-update/us-stock-market-this-week-20260216",
+        "content": "• 关键事件分析：超过100家标普500指数成份股公司公布了财报，包括2月9日的安森美（onsemi）、信安金融集团（Principal Financial Group）、Medpace、固特异（Goodyear）和沃那多（Vornado）。其他备受期待的财报包括Robinhood、AppLovin和Coinbase。美联储官员（包括亚特兰大联储主席拉斐尔·博斯蒂克以及美联储理事克里斯托弗·沃勒和..."
+      }
+    ],
+    "cn_news": [
+      {
+        "title": "2026年2月A股市场规模再创新高，市值结构优化凸显资金向优聚集",
+        "url": "http://www.news.cn/finance/20260316/37614982eab54ac7a3241f4af9a7b74c/c.html",
+        "content": "清华证研院：2026年2月A股市场规模再创新高，市值结构优化凸显资金向优聚集-新华网 \n\n新华网 >  > 正文\n\n2026 03/16 18:06:24\n\n来源：上海证券报·中国证券网\n\n# 清华证研院：2026年2月A股市场规模再创新高，市值结构优化凸显资金向优聚集\n\n字体： 小 中 大\n\n分享到：\n\n# 清华证研院：2026年2月A股市场规模再创新高，市值结构优化凸显资金向优聚集\n\n2026..."
+      },
+      {
+        "title": "内外资机构共识：2026年中国股市将延续涨势",
+        "url": "https://www.cnstock.com/commonDetail/613378",
+        "content": "主管主办 ｜ 证监会法定信息披露平台 ｜ 上海证券报社有限公司\n\nLogo\n\nLogo\n\n登录 | 注册\n\n# 内外资机构共识：2026年中国股市将延续涨势\n\n来源：上海证券报\n\n作者：汪友若\n\nA股\n\n|\n\n2026-01-05 08:10\n\n字号\n\n收藏\n\n我要举报\n\n凡本报注明“来源：上海证券报”、“来源：上海证券报·中国证券网”和“来源：上海证券报微信公众号”的所有原创作品，著作权均属于本..."
+      },
+      {
+        "title": "中国证监会新闻发言人就《关于深化创业板改革更好服务新质生产力 ...",
+        "url": "https://www.csrc.gov.cn/csrc/c100028/c7625374/content.shtml",
+        "content": "八、问：中国证监会如何抓好《创业板意见》贯彻落实？\n\n答：《创业板意见》是新一轮全面深化资本市场改革的重大举措，证监会将始终牢牢把握防风险、强监管、促高质量发展工作主线，以钉钉子精神抓好改革的落地实施。一是加快制定修订相关制度规则，持续推动典型案例落地并形成示范效应，稳定市场预期，增强市场信心。二是指导深交所、行业协会等加强对各类市场主体的政策培训，尽快启动地方政府推送企业信息工作培训会，开展多种..."
+      }
+    ],
+    "global_news": [
+      {
+        "title": "Nvidia（NVDA）新闻：首席执行官黄仁勋的主题演讲推动人工智能加密代币行情",
+        "url": "https://www.coindesk.com/zh/markets/2026/03/16/ai-linked-crypto-tokens-surge-as-nvidia-s-jensen-huang-touts-agentic-future",
+        "content": "价格\n 研究\n Consensus 2026\n 赞助\n\n# 随着英伟达黄仁勋谈及代理智能未来，AI相关加密代币大幅上涨\n\n## 首席执行官黄仁勋预测，到2027年，芯片需求将达到1万亿美元，并赞扬了OpenClaw及代理智能系统的快速崛起。\n\n作者 Krisztian Sandor|编辑者 Nikhilesh De\n\n2026年3月16日 下午6:20\n由 AI 翻译\n\n在上将设为首选\n\n(Nvi..."
+      },
+      {
+        "title": "AI算力热潮持续，加密货币矿商转型AI的“世纪互联”们会成为下轮IPO主力军吗",
+        "url": "https://chinaapo.com.cn/company-news/148.html",
+        "content": "君威资本集团一官方网站\n\n关于君威 \n\n君威介绍 合作伙伴\n\n服务领域 \n\n新闻动态 \n\n公司动态\n\n联系我们 \n\n君威资本集团一官方网站\n\n 网站首页\n 关于君威\n\n  + 君威介绍>\n  + 合作伙伴>\n 服务领域\n\n  + 业务介绍>\n 君威团队\n 精选案例\n 新闻动态\n\n  + 公司动态>\n 联系我们\n\n发现价值创造未来\n\nFINDING VALUE CREATES THE FUTURE\n..."
+      },
+      {
+        "title": "[PDF] 科技行业2026 年展望：AI 算法迭代扩容算力底座",
+        "url": "https://www.spdbi.com/getfile/index/action/images/name/%E7%A7%91%E6%8A%80%E8%A1%8C%E4%B8%9A2026%E5%B9%B4%E5%B1%95%E6%9C%9B%EF%BC%9AAI%E7%AE%97%E6%B3%95%E8%BF%AD%E4%BB%A3%E6%89%A9%E5%AE%B9%E7%AE%97%E5%8A%9B%E5%BA%95%E5%BA%A7%EF%BC%8C%E7%94%9F%E6%80%81%E7%B9%81%E8%8D%A3%E9%87%8D%E5%A1%91%E5%A2%9E%E9%95%BF%E8%BE%B9%E7%95%8C_%E6%B5%A6%E9%93%B6%E5%9B%BD%E9%99%85%E7%A0%94%E7%A9%B6.pdf",
+        "content": "N/A 3.9 3.2 2.9 RIOT US Equity Riot 加密货币 4,726 12.7 24.5 135.2 N/A N/A 7.1 6.1 5.4 GEMI US Equity Gemini 加密货币 1,253 10.6 N/A N/A N/A N/A 7.2 3.8 2.5 BLSH US Equity Bullish 加密货币 5,643 38.6 N/A N/A 52.0..."
+      }
+    ]
+  }
+}
