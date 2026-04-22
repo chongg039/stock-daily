@@ -1,0 +1,166 @@
+{
+  "date": "2026-04-22",
+  "timestamp": "2026-04-22T09:26:00.525220",
+  "us_stocks": {
+    "道琼斯": {
+      "symbol": "^DJI",
+      "date": "2026-04-21",
+      "close": "49149.38",
+      "open": "49688.37",
+      "high": "49848.69",
+      "low": "49046.54",
+      "volume": "433144332"
+    },
+    "标普 500": {
+      "symbol": "^SPX",
+      "date": "2026-04-21",
+      "close": "7064.01",
+      "open": "7122.64",
+      "high": "7137.27",
+      "low": "7050.2",
+      "volume": "2972006099"
+    },
+    "苹果": {
+      "symbol": "AAPL",
+      "date": "2026-04-21",
+      "close": "266.17",
+      "open": "271.5",
+      "high": "272.8",
+      "low": "265.4",
+      "volume": "50137866"
+    },
+    "微软": {
+      "symbol": "MSFT",
+      "date": "2026-04-21",
+      "close": "424.16",
+      "open": "420.24",
+      "high": "427.18",
+      "low": "417.2",
+      "volume": "31983703"
+    },
+    "谷歌": {
+      "symbol": "GOOGL",
+      "date": "2026-04-21",
+      "close": "332.35",
+      "open": "337.685",
+      "high": "339.34",
+      "low": "331.35",
+      "volume": "23084772"
+    },
+    "亚马逊": {
+      "symbol": "AMZN",
+      "date": "2026-04-21",
+      "close": "249.959",
+      "open": "255.09",
+      "high": "255.09",
+      "low": "249.1",
+      "volume": "42805840"
+    },
+    "英伟达": {
+      "symbol": "NVDA",
+      "date": "2026-04-21",
+      "close": "199.88",
+      "open": "202.18",
+      "high": "202.75",
+      "low": "199",
+      "volume": "107528357"
+    },
+    "Meta": {
+      "symbol": "META",
+      "date": "2026-04-21",
+      "close": "668.79942",
+      "open": "670.91",
+      "high": "676.2",
+      "low": "667.33",
+      "volume": "8633710"
+    },
+    "特斯拉": {
+      "symbol": "TSLA",
+      "date": "2026-04-21",
+      "close": "386.39",
+      "open": "393",
+      "high": "393.95",
+      "low": "385.2201",
+      "volume": "50320242"
+    }
+  },
+  "cn_stocks": {
+    "上证指数": {
+      "symbol": "000001",
+      "close": "4074.81",
+      "open": "4074.81",
+      "high": "4074.81",
+      "low": "4074.81",
+      "change": "-0.25%"
+    },
+    "深证成指": {
+      "symbol": "399001",
+      "close": "14897.96",
+      "open": "14897.96",
+      "high": "14897.96",
+      "low": "14897.96",
+      "change": "-0.56%"
+    },
+    "创业板指": {
+      "symbol": "399006",
+      "close": "3660.42",
+      "open": "3660.42",
+      "high": "3660.42",
+      "low": "3660.42",
+      "change": "-0.77%"
+    }
+  },
+  "news": {
+    "us_news": [
+      {
+        "title": "本周美股行情 - 2026-02-16 - TradingKey",
+        "url": "https://www.tradingkey.com/zh-hans/tools/market-update/us-stock-market-this-week-20260216",
+        "content": "• 关键事件分析：超过100家标普500指数成份股公司公布了财报，包括2月9日的安森美（onsemi）、信安金融集团（Principal Financial Group）、Medpace、固特异（Goodyear）和沃那多（Vornado）。其他备受期待的财报包括Robinhood、AppLovin和Coinbase。美联储官员（包括亚特兰大联储主席拉斐尔·博斯蒂克以及美联储理事克里斯托弗·沃勒和..."
+      },
+      {
+        "title": "美股快报｜2026年2月美股资金轮动下的赢家与方向",
+        "url": "https://acy.com/zh/market-news/market-analysis/winners-and-directions-in-us-stock-market-fund-rotation-in-feb-2026-monthly-report-c-t-112135/",
+        "content": "交易\n\n新闻 & 分析\n\nTim Cahill\n足球传奇 & ACY证券全球品牌大使\n\nTim Cahill\nTim Cahill Cartoon\n\n# 美股快报｜2026年2月美股资金轮动下的赢家与方向\n\nCindy Tsai - 量化策略分析师\n\n2026-02-04 11:09:09\n\ngo to instagram\ngo to instagram\ngo to linkedin\ngo to ..."
+      },
+      {
+        "title": "2026下半年美股或全面崩盘，美联储将加速降息救市！-市场参考",
+        "url": "https://xnews.jin10.com/details/203554",
+        "content": "字体：\n\n 小\n 中\n 大\n 超大\n\n华尔街知名空头预警：2026下半年美股或全面崩盘，美联储将加速降息救市！\n\n市场研究公司BCA Research预计AI热潮将在2026年“褪去”，并引发美股连锁反应，预计标普500指数将跌超20%。\n\nAI播客：换个方式听新闻 下载mp3\n\n音频由扣子空间生成\n\n2025年最后一个完整交易周已经到来。据《市场观察》统计，随着市场目光愈发聚焦明年，多数分析师对..."
+      }
+    ],
+    "cn_news": [
+      {
+        "title": "2026年2月A股市场规模再创新高，市值结构优化凸显资金向优聚集",
+        "url": "http://www.news.cn/finance/20260316/37614982eab54ac7a3241f4af9a7b74c/c.html",
+        "content": "清华证研院：2026年2月A股市场规模再创新高，市值结构优化凸显资金向优聚集-新华网 \n\n新华网 >  > 正文\n\n2026 03/16 18:06:24\n\n来源：上海证券报·中国证券网\n\n# 清华证研院：2026年2月A股市场规模再创新高，市值结构优化凸显资金向优聚集\n\n字体： 小 中 大\n\n分享到：\n\n# 清华证研院：2026年2月A股市场规模再创新高，市值结构优化凸显资金向优聚集\n\n2026..."
+      },
+      {
+        "title": "[PDF] 中国证券监督管理委员会年报",
+        "url": "https://www.csrc.gov.cn/csrc/c100024/c7624098/7624098/files/%E4%B8%AD%E5%9B%BD%E8%AF%81%E5%88%B8%E7%9B%91%E7%9D%A3%E7%AE%A1%E7%90%86%E5%A7%94%E5%91%98%E4%BC%9A%E5%B9%B4%E6%8A%A5%EF%BC%882024%E5%B9%B4%EF%BC%89.pdf",
+        "content": "亿元。 2015 2017 2019 2021 2023 2024 年 2556.26 9902.04 2013 14175.45 15400.13 14221.61 12538.83 15534.98 11377.88 20297.39 16361.62 8498.26 4131.46 22000 亿元 20000 18000 16000 14000 12000 10000 8000 6000 ..."
+      },
+      {
+        "title": "2026年2月统计数据_中国证券监督管理委员会",
+        "url": "https://www.csrc.gov.cn/csrc/c100120/c7617513/content.shtml",
+        "content": "|\n English\n  移动端|\n\n   \n  微博|\n  微信|\n\n  \n  无障碍\n\n\n\n\n\n 首页\n 机构概况\n 新闻发布\n 政务信息\n 办事服务\n 互动交流\n 统计信息\n 专题专栏\n\n 当前位置： 首页>统计信息>证券市场月报\n\n## 2026年2月统计数据\n\n日期：2026-03-02     来源：证监会\n\n###### 分享到：\n\n QQ空间\n 豆瓣网\n\n【字号： 大 中 小】\n\n..."
+      }
+    ],
+    "global_news": [
+      {
+        "title": "全球资本加速涌入人工智能基础设施 - 靠谱新闻",
+        "url": "https://kaopu.news/story/2026-04-01/%E5%85%A8%E7%90%83%E8%B5%84%E6%9C%AC%E5%8A%A0%E9%80%9F%E6%B6%8C%E5%85%A5%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD-e97d11",
+        "content": "靠谱新闻\n\n# 全球资本加速涌入人工智能基础设施\n\n靠谱新闻编辑部·\n\n2026年3月下旬，多条来自亚洲与欧美的商业新闻显示，资金正集中流向人工智能相关的算力与基础设施领域。比特币挖矿企业开始将高耗能设施改造为AI数据中心，芯片、光互连和新型数据中心项目接连获得融资或推进上市。韩国、美国和中国企业均在近期披露了与AI硬件直接相关的投资、募资或战略动作。 在产业链上游，韩国AI芯片初创公司Rebel..."
+      },
+      {
+        "title": "Nvidia（NVDA）新闻：首席执行官黄仁勋的主题演讲推动人工智能加密代币行情",
+        "url": "https://www.coindesk.com/zh/markets/2026/03/16/ai-linked-crypto-tokens-surge-as-nvidia-s-jensen-huang-touts-agentic-future",
+        "content": "# 随着英伟达黄仁勋谈及代理智能未来，AI相关加密代币大幅上涨\n\n## 首席执行官黄仁勋预测，到2027年，芯片需求将达到1万亿美元，并赞扬了OpenClaw及代理智能系统的快速崛起。\n\n(Nvidia CEO Jensen Huang speaks at CES 2026 in Las Vegas/Nvidia)\n\n#### 需要了解的:\n\n与人工智能相关的加密货币周一持续上涨，此前英伟达首席执..."
+      },
+      {
+        "title": "2026斯坦福AI报告的冷思考：算力霸权、寡头生态与认知失衡",
+        "url": "https://www.mexc.co/zh-MY/news/1025366",
+        "content": "### 伊朗谴责美国封锁霍尔木兹海峡为\"无知决定\"\n\n## 实时快讯\n\nJoseph Lubin 指出 AI 过度集中化的风险，并强调以太坊在促进去中心化、由 AI 驱动的交易方面所发挥的作用。\n\n作者：Crypto Miners06:45\n\nRAVE 经历了自然的市场动态，这一过程由有限供给、做空活动和合规上架所驱动。\n\n作者：Crypto Bitlord06:22\n\n比特币的采用仍处于早期阶段..."
+      }
+    ]
+  }
+}
