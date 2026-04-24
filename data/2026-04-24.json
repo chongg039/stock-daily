@@ -1,0 +1,166 @@
+{
+  "date": "2026-04-24",
+  "timestamp": "2026-04-24T09:38:57.733157",
+  "us_stocks": {
+    "道琼斯": {
+      "symbol": "^DJI",
+      "date": "2026-04-23",
+      "close": "49310.32",
+      "open": "49284.85",
+      "high": "49522.94",
+      "low": "48861.31",
+      "volume": "475481098"
+    },
+    "标普 500": {
+      "symbol": "^SPX",
+      "date": "2026-04-23",
+      "close": "7108.4",
+      "open": "7118.8",
+      "high": "7147.78",
+      "low": "7046.55",
+      "volume": "3245670719"
+    },
+    "苹果": {
+      "symbol": "AAPL",
+      "date": "2026-04-23",
+      "close": "273.44",
+      "open": "275.045",
+      "high": "275.77",
+      "low": "271.65",
+      "volume": "33277552"
+    },
+    "微软": {
+      "symbol": "MSFT",
+      "date": "2026-04-23",
+      "close": "415.75",
+      "open": "419.885",
+      "high": "432.9",
+      "low": "411.4101",
+      "volume": "38106336"
+    },
+    "谷歌": {
+      "symbol": "GOOGL",
+      "date": "2026-04-23",
+      "close": "338.89",
+      "open": "341.18",
+      "high": "341.96",
+      "low": "336.18",
+      "volume": "18582866"
+    },
+    "亚马逊": {
+      "symbol": "AMZN",
+      "date": "2026-04-23",
+      "close": "255.12",
+      "open": "255.39",
+      "high": "258.79",
+      "low": "253.07",
+      "volume": "38941897"
+    },
+    "英伟达": {
+      "symbol": "NVDA",
+      "date": "2026-04-23",
+      "close": "199.64",
+      "open": "202.46",
+      "high": "203.829",
+      "low": "197.2206",
+      "volume": "112822314"
+    },
+    "Meta": {
+      "symbol": "META",
+      "date": "2026-04-23",
+      "close": "659.33",
+      "open": "663.7",
+      "high": "669.56",
+      "low": "653.05",
+      "volume": "11625950"
+    },
+    "特斯拉": {
+      "symbol": "TSLA",
+      "date": "2026-04-23",
+      "close": "373.6",
+      "open": "375.28",
+      "high": "386",
+      "low": "368.39",
+      "volume": "93647173"
+    }
+  },
+  "cn_stocks": {
+    "上证指数": {
+      "symbol": "000001",
+      "close": "4071.28",
+      "open": "4070.67",
+      "high": "4081.03",
+      "low": "4070.67",
+      "change": "-0.54%"
+    },
+    "深证成指": {
+      "symbol": "399001",
+      "close": "14898.25",
+      "open": "14896.21",
+      "high": "14951.74",
+      "low": "14896.21",
+      "change": "-0.97%"
+    },
+    "创业板指": {
+      "symbol": "399006",
+      "close": "3669.79",
+      "open": "3668.48",
+      "high": "3682.50",
+      "low": "3668.48",
+      "change": "-1.36%"
+    }
+  },
+  "news": {
+    "us_news": [
+      {
+        "title": "每日美股市场深度解读报告：2026年2月18日 1. 市场全景概述：波动中的技术性反弹2026年2月18日，美股市场在多空势力的激烈博弈中展现出显著的韧性。尽管美联储（... - 雪球",
+        "url": "https://xueqiu.com/6025808271/376446317",
+        "content": "#### 5. 重大公司动态与并购新闻：价值释放的新路径\n\n今日披露的并购与分拆计划显示，企业正通过战略调整寻求价值的最大化释放。\n\nMSGS 分拆案： 麦迪逊广场花园体育公司（MSGS）宣布拟将纽约尼克斯队（NBA）和纽约游骑兵队（NHL）分拆为独立上市公司。花旗分析师指出，此举有望解锁潜在价值，并将目标价定在337美元。跨时代并购传闻： 关于SpaceX与xAI合并、估值达1.25万亿美元的跨..."
+      },
+      {
+        "title": "本周美股行情 - 2026-02-16 - TradingKey",
+        "url": "https://www.tradingkey.com/zh-hans/tools/market-update/us-stock-market-this-week-20260216",
+        "content": "• 关键事件分析：超过100家标普500指数成份股公司公布了财报，包括2月9日的安森美（onsemi）、信安金融集团（Principal Financial Group）、Medpace、固特异（Goodyear）和沃那多（Vornado）。其他备受期待的财报包括Robinhood、AppLovin和Coinbase。美联储官员（包括亚特兰大联储主席拉斐尔·博斯蒂克以及美联储理事克里斯托弗·沃勒和..."
+      },
+      {
+        "title": "美股快报｜2026年2月美股资金轮动下的赢家与方向",
+        "url": "https://acy.com/zh/market-news/market-analysis/winners-and-directions-in-us-stock-market-fund-rotation-in-feb-2026-monthly-report-c-t-112135/",
+        "content": "交易\n\n新闻 & 分析\n\nTim Cahill\n足球传奇 & ACY证券全球品牌大使\n\nTim Cahill\nTim Cahill Cartoon\n\n# 美股快报｜2026年2月美股资金轮动下的赢家与方向\n\nCindy Tsai - 量化策略分析师\n\n2026-02-04 11:09:09\n\ngo to instagram\ngo to instagram\ngo to linkedin\ngo to ..."
+      }
+    ],
+    "cn_news": [
+      {
+        "title": "沪丶深港通 SH/SZ-HK Stock Connect - 中国市场新闻",
+        "url": "https://www.aastocks.com/sc/cnhk/news/china-hot-topic-content.aspx?id=GLH5178619N&catg=4&source=GLH",
+        "content": "3月3日丨嘉泽新能(601619.SH) -0.090 (-1.426%)) 公布，公司获悉，基金管理人国金基金管理有限公司于2026年2月26日向中国证券监督管理委员会（以下简称中国证监会）和上海证券交易所（以下简称上交所）提交了国金嘉泽新能源封闭式基础设施证券投资基金（REITs）项目（以下简称基础设施公募REITs，具体名称以中国证监会注册名称为准）的申报材料，并于2026年3月3日收到中国..."
+      },
+      {
+        "title": "沪丶深港通 SH/SZ-HK Stock Connect - 中国市场新闻",
+        "url": "http://www.aastocks.com/sc/cnhk/news/china-hot-topic-content.aspx?id=GLH5178619N&catg=4&source=GLH",
+        "content": "3月3日丨嘉泽新能(601619.SH) -0.090 (-1.426%)) 公布，公司获悉，基金管理人国金基金管理有限公司于2026年2月26日向中国证券监督管理委员会（以下简称中国证监会）和上海证券交易所（以下简称上交所）提交了国金嘉泽新能源封闭式基础设施证券投资基金（REITs）项目（以下简称基础设施公募REITs，具体名称以中国证监会注册名称为准）的申报材料，并于2026年3月3日收到中国..."
+      },
+      {
+        "title": "2026年A股市场2月策略-月度投资策略报告 - 证券市场周刊",
+        "url": "https://static.weeklyonstock.com/26/0205/gq145531.html",
+        "content": "中国中免[601888.SH]\n\n旅游零售行业大型股份制企业\n\n2026年1月19日晚间，中国中免公告：1）中免收购DFS中国港澳门店及大中华区无形资产。全资孙公司中免国际与DFS新加坡/DFS中国香港签署《框架协议》，约定中免国际拟以不超过3.95亿美元现金方式收购对方持有的DFS大中华区旅游零售业务相关股权及资产。2）LVMH+Miller家族将认购中免H股。待上述收购事项交割后，中免将以77..."
+      }
+    ],
+    "global_news": [
+      {
+        "title": "华尔街和科技圈2026年十大预测：AI泡沫恐破灭，三大超级IPO来袭，量子计算或颠覆加密货币|AI_新浪财经_新浪网",
+        "url": "https://finance.sina.com.cn/roll/2026-01-03/doc-inhezczt3785779.shtml",
+        "content": "普华永道在《2026年美国资本市场展望》中指出，2025年IPO因政府停摆导致监管审核中断，大量企业将上市计划顺延至2026年，形成庞大的“IPO-ready”积压队列，可能于2026年上半年集中释放。当前新股候选池已显著扩容，包含超800家独角兽企业。\n\n　　投行Wedbush分析师Dan Ives在题为《颠覆性技术——引领人工智能革命至2026年的五大公司》中提名了5家将在2026年成为市场焦..."
+      },
+      {
+        "title": "[PDF] 科技行业2026 年展望：AI 算法迭代扩容算力底座",
+        "url": "https://www.spdbi.com/getfile/index/action/images/name/%E7%A7%91%E6%8A%80%E8%A1%8C%E4%B8%9A2026%E5%B9%B4%E5%B1%95%E6%9C%9B%EF%BC%9AAI%E7%AE%97%E6%B3%95%E8%BF%AD%E4%BB%A3%E6%89%A9%E5%AE%B9%E7%AE%97%E5%8A%9B%E5%BA%95%E5%BA%A7%EF%BC%8C%E7%94%9F%E6%80%81%E7%B9%81%E8%8D%A3%E9%87%8D%E5%A1%91%E5%A2%9E%E9%95%BF%E8%BE%B9%E7%95%8C_%E6%B5%A6%E9%93%B6%E5%9B%BD%E9%99%85%E7%A0%94%E7%A9%B6.pdf",
+        "content": "N/A 3.9 3.2 2.9 RIOT US Equity Riot 加密货币 4,726 12.7 24.5 135.2 N/A N/A 7.1 6.1 5.4 GEMI US Equity Gemini 加密货币 1,253 10.6 N/A N/A N/A N/A 7.2 3.8 2.5 BLSH US Equity Bullish 加密货币 5,643 38.6 N/A N/A 52.0..."
+      },
+      {
+        "title": "690万枚比特币恐被破解！2029年“量子末日”倒计时，银行卡、社交账号也面临风险 - 21经济网",
+        "url": "https://www.21jingji.com/article/20260414/herald/3e73e1df01897e80285a485f4cd6de03.html",
+        "content": "大湾区 一带一路 文旅 理财 投资通 21视频 直播 品牌活动\n\n首页 > 正文\n\n# 690万枚比特币恐被破解！2029年“量子末日”倒计时，银行卡、社交账号也面临风险\n\n###### 2026年04月14日 08:59   每日经济新闻\n\n2026年3月底，谷歌量子人工智能（Quantum AI）团队发布的一份白皮书揭示，一台足够强大的量子计算机，理论上破解比特币底层加密所需的资源，仅为此前估..."
+      }
+    ]
+  }
+}
